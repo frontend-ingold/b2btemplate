@@ -1,5 +1,5 @@
 LANG_KEY,DE_TEXT
-AUTH_SIGNIN_TITLE,Willkommen zurück
+AUTH_WELCOME_TITLE,Willkommen zurück
 AUTH_SIGNIN_SUBTITLE,Melden Sie sich an, um fortzufahren
 AUTH_SIGNIN_EMAIL_LABEL,E-Mail
 AUTH_SIGNIN_EMAIL_PLACEHOLDER,Geben Sie Ihre E-Mail ein
@@ -91,3 +91,6 @@ AUTH_STATE_SAXONY,Sachsen
 AUTH_STATE_SAXONY_ANHALT,Sachsen-Anhalt
 AUTH_STATE_SCHLESWIG_HOLSTEIN,Schleswig-Holstein
 AUTH_STATE_THURINGIA,Thüringen
+AUTH_SIGNIN_TITLE,"Anmelden"
+AUTH_SIGNIN_VALIDATION_EMAIL_PASSWORD,"Bitte geben Sie E-Mail und Passwort ein"
+AUTH_SIGNIN_ERROR_FAILED,"Anmeldung fehlgeschlagen"
