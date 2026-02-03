@@ -94,3 +94,8 @@ AUTH_STATE_THURINGIA,Thüringen
 AUTH_SIGNIN_TITLE,"Anmelden"
 AUTH_SIGNIN_VALIDATION_EMAIL_PASSWORD,"Bitte geben Sie E-Mail und Passwort ein"
 AUTH_SIGNIN_ERROR_FAILED,"Anmeldung fehlgeschlagen"
+AUTH_SIGNUP_WAITING_APPROVAL_TITLE,Registrierung übermittelt
+AUTH_SIGNUP_WAITING_APPROVAL_MESSAGE,Ihr Konto wartet auf Genehmigung. Sie werden benachrichtigt, sobald es genehmigt wurde
+LOADING,Loading
+TOP_RATED_PRODUCTS,Top-bewertete Produkte
+BACK_IN_STOCK_SUBTITLE,Frische Chargen deiner Favoriten

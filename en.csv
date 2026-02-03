@@ -94,3 +94,8 @@ AUTH_STATE_THURINGIA,Thuringia
 AUTH_SIGNIN_TITLE,"Sign In"
 AUTH_SIGNIN_VALIDATION_EMAIL_PASSWORD,"Please enter both email and password"
 AUTH_SIGNIN_ERROR_FAILED,"Sign in failed"
+AUTH_SIGNUP_WAITING_APPROVAL_TITLE,Registration submitted
+AUTH_SIGNUP_WAITING_APPROVAL_MESSAGE,Your account is waiting for approval. You will be notified once approved.
+LOADING,Laden
+TOP_RATED_PRODUCTS,Top rated products
+BACK_IN_STOCK_SUBTITLE,Fresh batches of your favorites
