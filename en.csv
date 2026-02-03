@@ -99,3 +99,9 @@ AUTH_SIGNUP_WAITING_APPROVAL_MESSAGE,Your account is waiting for approval. You w
 LOADING,Laden
 TOP_RATED_PRODUCTS,Top rated products
 BACK_IN_STOCK_SUBTITLE,Fresh batches of your favorites
+ADD_TO_CART,Add to Cart
+CAT_HEADER_TITLE,Category
+CAT_HEADER_SUBTITLE,Browse curated collections
+CAT_DISCOVER_ALL,Discover All
+CAT_EMPTY_NO_CATEGORIES,No categories
+CAT_EMPTY_SELECT_ANOTHER,Select another category.

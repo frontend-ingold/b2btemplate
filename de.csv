@@ -99,3 +99,9 @@ AUTH_SIGNUP_WAITING_APPROVAL_MESSAGE,Ihr Konto wartet auf Genehmigung. Sie werde
 LOADING,Loading
 TOP_RATED_PRODUCTS,Top-bewertete Produkte
 BACK_IN_STOCK_SUBTITLE,Frische Chargen deiner Favoriten
+ADD_TO_CART,In den Warenkorb
+CAT_HEADER_TITLE,Kategorie
+CAT_HEADER_SUBTITLE,Stöbere in kuratierten Kollektionen
+CAT_DISCOVER_ALL,Alles entdecken
+CAT_EMPTY_NO_CATEGORIES,Keine Kategorien
+CAT_EMPTY_SELECT_ANOTHER,Wähle eine andere Kategorie.
