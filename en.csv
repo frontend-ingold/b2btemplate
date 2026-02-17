@@ -401,6 +401,31 @@ ADDRESS_SIGNIN_AGAIN,Please sign in again
 ADDRESS_SUCCESS,Success
 ADDRESS_DELETED_SUCCESS,Address deleted successfully
 ADDRESS_DELETE_FAILED,Failed to delete address
+CHANGE_PASSWORD_TITLE,Change Password
+CHANGE_PASSWORD_SUBTITLE,Update your account password
+CHANGE_PASSWORD_CURRENT_LABEL,Current Password
+CHANGE_PASSWORD_CURRENT_PLACEHOLDER,Enter current password
+CHANGE_PASSWORD_NEW_LABEL,New Password
+CHANGE_PASSWORD_NEW_PLACEHOLDER,Enter new password
+CHANGE_PASSWORD_CONFIRM_LABEL,Confirm Password
+CHANGE_PASSWORD_CONFIRM_PLACEHOLDER,Confirm new password
+CHANGE_PASSWORD_HINT,Password must be more than 8 characters and include letters numbers one uppercase letter and one special character.
+CHANGE_PASSWORD_UPDATE_BUTTON,Update Password
+CHANGE_PASSWORD_CURRENT_REQUIRED,Please enter current password
+CHANGE_PASSWORD_NEW_REQUIRED,Please enter new password
+CHANGE_PASSWORD_CONFIRM_REQUIRED,Please confirm new password
+CHANGE_PASSWORD_MISMATCH,New password and confirm password do not match
+CHANGE_PASSWORD_RULE_LENGTH,New password must be more than 8 characters
+CHANGE_PASSWORD_RULE_ALNUM,New password must be alphanumeric letters and numbers
+CHANGE_PASSWORD_RULE_UPPER,New password must contain at least one uppercase letter
+CHANGE_PASSWORD_RULE_SPECIAL,New password must contain at least one special character
+CHANGE_PASSWORD_TOKEN_FAILED,Unable to get customer token
+CHANGE_PASSWORD_STORE_FAILED,Unable to get store code
+CHANGE_PASSWORD_SUCCESS_TITLE,Success
+CHANGE_PASSWORD_SUCCESS,Password changed successfully
+CHANGE_PASSWORD_OK,OK
+CHANGE_PASSWORD_FAILED,Failed to change password. Please try again.
+
 
 
 

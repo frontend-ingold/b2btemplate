@@ -401,6 +401,31 @@ ADDRESS_SIGNIN_AGAIN,Bitte melden Sie sich erneut an
 ADDRESS_SUCCESS,Erfolg
 ADDRESS_DELETED_SUCCESS,Adresse erfolgreich geloescht
 ADDRESS_DELETE_FAILED,Adresse konnte nicht geloescht werden
+CHANGE_PASSWORD_TITLE,Passwort aendern
+CHANGE_PASSWORD_SUBTITLE,Aktualisieren Sie Ihr Kontopasswort
+CHANGE_PASSWORD_CURRENT_LABEL,Aktuelles Passwort
+CHANGE_PASSWORD_CURRENT_PLACEHOLDER,Aktuelles Passwort eingeben
+CHANGE_PASSWORD_NEW_LABEL,Neues Passwort
+CHANGE_PASSWORD_NEW_PLACEHOLDER,Neues Passwort eingeben
+CHANGE_PASSWORD_CONFIRM_LABEL,Passwort bestaetigen
+CHANGE_PASSWORD_CONFIRM_PLACEHOLDER,Neues Passwort bestaetigen
+CHANGE_PASSWORD_HINT,Das Passwort muss laenger als 8 Zeichen sein und Buchstaben Zahlen einen Grossbuchstaben und ein Sonderzeichen enthalten.
+CHANGE_PASSWORD_UPDATE_BUTTON,Passwort aktualisieren
+CHANGE_PASSWORD_CURRENT_REQUIRED,Bitte aktuelles Passwort eingeben
+CHANGE_PASSWORD_NEW_REQUIRED,Bitte neues Passwort eingeben
+CHANGE_PASSWORD_CONFIRM_REQUIRED,Bitte neues Passwort bestaetigen
+CHANGE_PASSWORD_MISMATCH,Neues Passwort und Passwortbestaetigung stimmen nicht ueberein
+CHANGE_PASSWORD_RULE_LENGTH,Neues Passwort muss laenger als 8 Zeichen sein
+CHANGE_PASSWORD_RULE_ALNUM,Neues Passwort muss alphanumerisch sein Buchstaben und Zahlen
+CHANGE_PASSWORD_RULE_UPPER,Neues Passwort muss mindestens einen Grossbuchstaben enthalten
+CHANGE_PASSWORD_RULE_SPECIAL,Neues Passwort muss mindestens ein Sonderzeichen enthalten
+CHANGE_PASSWORD_TOKEN_FAILED,Kunden-Token konnte nicht geladen werden
+CHANGE_PASSWORD_STORE_FAILED,Store-Code konnte nicht geladen werden
+CHANGE_PASSWORD_SUCCESS_TITLE,Erfolg
+CHANGE_PASSWORD_SUCCESS,Passwort erfolgreich geaendert
+CHANGE_PASSWORD_OK,OK
+CHANGE_PASSWORD_FAILED,Passwort konnte nicht geaendert werden. Bitte versuchen Sie es erneut.
+
 
 
 
