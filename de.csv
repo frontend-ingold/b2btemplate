@@ -303,6 +303,39 @@ CHECKOUT_PAYPAL_ORDER_CREATE_FAILED,PayPal-Checkout-Bestellung konnte nicht erst
 CHECKOUT_PAYPAL_APPROVAL_LINK_MISSING,PayPal-Freigabelink wurde nicht zurückgegeben.
 CHECKOUT_ORDER_NUMBER_FAILED,Bestellnummer konnte nicht ermittelt werden.
 CHECKOUT_PLACE_ORDER_FAILED,Bestellung konnte nicht aufgegeben werden. Bitte versuchen Sie es erneut.
+PROFILE_ACCOUNT_UPDATED,Kontodaten erfolgreich aktualisiert
+PROFILE_ADDRESSES,Adressen
+PROFILE_AUTH_DETAILS_FAILED,Authentifizierungsdaten konnten nicht geladen werden
+PROFILE_CANCEL,Abbrechen
+PROFILE_CHANGE_PASSWORD,Passwort ändern
+PROFILE_EMAIL,E-Mail
+PROFILE_EMAIL_FALLBACK,user@company.com
+PROFILE_EMAIL_PLACEHOLDER,E-Mail eingeben
+PROFILE_FIRST_NAME,Vorname
+PROFILE_FIRST_NAME_PLACEHOLDER,Vorname eingeben
+PROFILE_INVALID_EMAIL,Bitte geben Sie eine gültige E-Mail-Adresse ein
+PROFILE_LAST_NAME,Nachname
+PROFILE_LAST_NAME_PLACEHOLDER,Nachname eingeben
+PROFILE_MENU,Menü
+PROFILE_MY_ADDRESS_LIST,Meine Adressliste
+PROFILE_MY_ORDERS_LIST,Meine Bestellliste
+PROFILE_MY_WISHLIST,Meine Wunschliste
+PROFILE_ORDERS,Bestellungen
+PROFILE_REQUIRED_FIELDS,Bitte füllen Sie alle Pflichtfelder aus
+PROFILE_SIGN_OUT,Abmelden
+PROFILE_SIGN_OUT_BUTTON,Abmelden
+PROFILE_SIGN_OUT_CONFIRM,Möchten Sie sich wirklich abmelden?
+PROFILE_SIGN_OUT_FAILED,Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.
+PROFILE_SIGN_OUT_TITLE,Abmelden
+PROFILE_SUBTITLE,Konto & Einstellungen
+PROFILE_SUCCESS_TITLE,Erfolg
+PROFILE_TITLE,Profil
+PROFILE_UPDATE,Aktualisieren
+PROFILE_UPDATE_ACCOUNT,Konto aktualisieren
+PROFILE_UPDATE_CUSTOMER_ACCOUNT,Kundenkonto aktualisieren
+PROFILE_UPDATE_FAILED,Konto konnte nicht aktualisiert werden. Bitte versuchen Sie es erneut.
+PROFILE_USER_FALLBACK,Benutzer
+
 
 
 

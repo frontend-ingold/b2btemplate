@@ -303,6 +303,40 @@ CHECKOUT_PAYPAL_ORDER_CREATE_FAILED,Failed to create PayPal checkout order
 CHECKOUT_PAYPAL_APPROVAL_LINK_MISSING,PayPal approval link was not returned
 CHECKOUT_ORDER_NUMBER_FAILED,Failed to get order number
 CHECKOUT_PLACE_ORDER_FAILED,Failed to place order. Please try again.
+PROFILE_ACCOUNT_UPDATED,Account updated successfully
+PROFILE_ADDRESSES,Addresses
+PROFILE_AUTH_DETAILS_FAILED,Unable to get authentication details
+PROFILE_CANCEL,Cancel
+PROFILE_CHANGE_PASSWORD,Change password
+PROFILE_EMAIL,Email
+PROFILE_EMAIL_FALLBACK,user@company.com
+PROFILE_EMAIL_PLACEHOLDER,Enter email
+PROFILE_FIRST_NAME,First Name
+PROFILE_FIRST_NAME_PLACEHOLDER,Enter first name
+PROFILE_INVALID_EMAIL,Please enter a valid email address
+PROFILE_LAST_NAME,Last Name
+PROFILE_LAST_NAME_PLACEHOLDER,Enter last name
+PROFILE_MENU,Menu
+PROFILE_MY_ADDRESS_LIST,My Address list
+PROFILE_MY_ORDERS_LIST,My Orders list
+PROFILE_MY_WISHLIST,My wish list
+PROFILE_ORDERS,Orders
+PROFILE_REQUIRED_FIELDS,Please fill in all required fields
+PROFILE_SIGN_OUT,Sign Out
+PROFILE_SIGN_OUT_BUTTON,Sign out
+PROFILE_SIGN_OUT_CONFIRM,Are you sure you want to sign out?
+PROFILE_SIGN_OUT_FAILED,Something went wrong. Please try again.
+PROFILE_SIGN_OUT_TITLE,Sign Out
+PROFILE_SUBTITLE,Account & settings
+PROFILE_SUCCESS_TITLE,Success
+PROFILE_TITLE,Profile
+PROFILE_UPDATE,Update
+PROFILE_UPDATE_ACCOUNT,Update Account
+PROFILE_UPDATE_CUSTOMER_ACCOUNT,Update Customer Account
+PROFILE_UPDATE_FAILED,Failed to update account. Please try again.
+PROFILE_USER_FALLBACK,User
+
+
 
 
 
