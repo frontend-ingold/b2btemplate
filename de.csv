@@ -335,6 +335,73 @@ PROFILE_UPDATE_ACCOUNT,Konto aktualisieren
 PROFILE_UPDATE_CUSTOMER_ACCOUNT,Kundenkonto aktualisieren
 PROFILE_UPDATE_FAILED,Konto konnte nicht aktualisiert werden. Bitte versuchen Sie es erneut.
 PROFILE_USER_FALLBACK,Benutzer
+WISHLIST_TITLE,Meine Wunschliste
+WISHLIST_LOADING,Wunschliste wird geladen...
+WISHLIST_LOAD_FAILED,Wunschliste konnte nicht geladen werden
+WISHLIST_ITEM,Artikel
+WISHLIST_ITEMS,Artikel
+WISHLIST_EMPTY_TITLE,Ihre Wunschliste ist leer
+WISHLIST_EMPTY_TEXT,Speichern Sie Ihre Favoriten, um sie hier zu sehen
+WISHLIST_BROWSE_PRODUCTS,Produkte durchsuchen
+WISHLIST_REMOVE_TITLE,Aus Wunschliste entfernen
+WISHLIST_REMOVE_CONFIRM_PREFIX,Entfernen Sie
+WISHLIST_REMOVE_CONFIRM_SUFFIX,aus Ihrer Wunschliste?
+WISHLIST_CANCEL,Abbrechen
+WISHLIST_REMOVE,Entfernen
+WISHLIST_REMOVE_UNAVAILABLE,Artikel kann nicht entfernt werden
+WISHLIST_REMOVE_FAILED,Artikel konnte nicht aus der Wunschliste entfernt werden
+WISHLIST_LOGIN_REQUIRED,Bitte melden Sie sich an, um Artikel in den Warenkorb zu legen
+WISHLIST_AUTH_FAILED,Authentifizierungsdaten konnten nicht geladen werden
+WISHLIST_PRODUCT_DETAILS_FAILED,Produktdetails konnten nicht geladen werden
+WISHLIST_CREATE_CART_FAILED,Warenkorb konnte nicht erstellt werden
+WISHLIST_ADDED_TO_CART,Produkt wurde dem Warenkorb hinzugefuegt
+WISHLIST_ADD_TO_CART_FAILED,Artikel konnte nicht in den Warenkorb gelegt werden. Bitte versuchen Sie es erneut.
+WISHLIST_ADD_PRODUCT_FAILED,Produkt konnte nicht in den Warenkorb gelegt werden
+WISHLIST_SELECT_SIZE,Bitte waehlen Sie mindestens eine Groesse
+WISHLIST_VIEW_CART,Warenkorb ansehen
+ORDERS_TITLE,Bestellungen
+ORDERS_FILTER_ALL,Alle
+ORDERS_FILTER_PENDING,Ausstehend
+ORDERS_FILTER_PROCESSING,In Bearbeitung
+ORDERS_FILTER_DELIVERED,Geliefert
+ORDERS_FILTER_CANCELED,Storniert
+ORDERS_LOADING,Bestellungen werden geladen...
+ORDERS_EMPTY_TITLE,Keine Bestellungen
+ORDERS_EMPTY_ALL,Starten Sie den Einkauf, um hier Bestellungen zu sehen
+ORDERS_EMPTY_FILTER,Versuchen Sie einen anderen Statusfilter oder starten Sie den Einkauf
+ORDERS_GO_HOME,Zur Startseite
+ORDERS_TOTAL,Gesamt
+ORDERS_LOADING_MORE,Weitere Bestellungen werden geladen...
+ORDERS_ORDER_SINGULAR,Bestellung
+ORDERS_ORDER_PLURAL,Bestellungen
+ORDERS_TOTAL_SUFFIX,gesamt
+ORDERS_STATUS_PENDING,Ausstehend
+ORDERS_STATUS_PROCESSING,In Bearbeitung
+ORDERS_STATUS_PAYMENT_PENDING,Zahlung ausstehend
+ORDERS_STATUS_COMPLETED,Abgeschlossen
+ORDERS_STATUS_CANCELED,Storniert
+ORDERS_STATUS_UNKNOWN,Unbekannt
+ADDRESS_TITLE,Adressen
+ADDRESS_SINGULAR,Adresse
+ADDRESS_PLURAL,Adressen
+ADDRESS_EMPTY_TITLE,Noch keine Adressen
+ADDRESS_EMPTY_TEXT,Fuegen Sie Ihre erste Adresse hinzu
+ADDRESS_EDIT,Bearbeiten
+ADDRESS_DELETE,Loeschen
+ADDRESS_ADD_NEW,Neue Adresse hinzufuegen
+ADDRESS_DEFAULT_SHIPPING,Standardversand
+ADDRESS_DEFAULT_BILLING,Standardrechnung
+ADDRESS_CANNOT_DELETE,Loeschen nicht moeglich
+ADDRESS_CANNOT_DELETE_DEFAULT,Sie koennen eine Standardadresse nicht loeschen. Setzen Sie zuerst eine andere Adresse als Standard.
+ADDRESS_OK,OK
+ADDRESS_DELETE_TITLE,Adresse loeschen
+ADDRESS_DELETE_CONFIRM,Moechten Sie diese Adresse wirklich loeschen?
+ADDRESS_CANCEL,Abbrechen
+ADDRESS_SIGNIN_AGAIN,Bitte melden Sie sich erneut an
+ADDRESS_SUCCESS,Erfolg
+ADDRESS_DELETED_SUCCESS,Adresse erfolgreich geloescht
+ADDRESS_DELETE_FAILED,Adresse konnte nicht geloescht werden
+
 
 
 

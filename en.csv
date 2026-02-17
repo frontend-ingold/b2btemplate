@@ -335,6 +335,73 @@ PROFILE_UPDATE_ACCOUNT,Update Account
 PROFILE_UPDATE_CUSTOMER_ACCOUNT,Update Customer Account
 PROFILE_UPDATE_FAILED,Failed to update account. Please try again.
 PROFILE_USER_FALLBACK,User
+WISHLIST_TITLE,My Wish List
+WISHLIST_LOADING,Loading wishlist...
+WISHLIST_LOAD_FAILED,Failed to load wishlist
+WISHLIST_ITEM,item
+WISHLIST_ITEMS,items
+WISHLIST_EMPTY_TITLE,Your wishlist is empty
+WISHLIST_EMPTY_TEXT,Save your favorite items to view them here
+WISHLIST_BROWSE_PRODUCTS,Browse Products
+WISHLIST_REMOVE_TITLE,Remove from Wishlist
+WISHLIST_REMOVE_CONFIRM_PREFIX,Remove
+WISHLIST_REMOVE_CONFIRM_SUFFIX,from your wishlist?
+WISHLIST_CANCEL,Cancel
+WISHLIST_REMOVE,Remove
+WISHLIST_REMOVE_UNAVAILABLE,Unable to remove item
+WISHLIST_REMOVE_FAILED,Failed to remove item from wishlist
+WISHLIST_LOGIN_REQUIRED,Please login to add items to cart
+WISHLIST_AUTH_FAILED,Unable to get authentication details
+WISHLIST_PRODUCT_DETAILS_FAILED,Unable to fetch product details
+WISHLIST_CREATE_CART_FAILED,Unable to create cart
+WISHLIST_ADDED_TO_CART,Product added to cart successfully
+WISHLIST_ADD_TO_CART_FAILED,Failed to add item to cart. Please try again.
+WISHLIST_ADD_PRODUCT_FAILED,Failed to add product to cart
+WISHLIST_SELECT_SIZE,Please select at least one size
+WISHLIST_VIEW_CART,View Cart
+ORDERS_TITLE,Orders
+ORDERS_FILTER_ALL,All
+ORDERS_FILTER_PENDING,Pending
+ORDERS_FILTER_PROCESSING,Processing
+ORDERS_FILTER_DELIVERED,Delivered
+ORDERS_FILTER_CANCELED,Canceled
+ORDERS_LOADING,Loading orders...
+ORDERS_EMPTY_TITLE,No orders here
+ORDERS_EMPTY_ALL,Start shopping to see your orders here
+ORDERS_EMPTY_FILTER,Try another status filter or start shopping
+ORDERS_GO_HOME,Go to Home
+ORDERS_TOTAL,Total
+ORDERS_LOADING_MORE,Loading more orders...
+ORDERS_ORDER_SINGULAR,order
+ORDERS_ORDER_PLURAL,orders
+ORDERS_TOTAL_SUFFIX,total
+ORDERS_STATUS_PENDING,Pending
+ORDERS_STATUS_PROCESSING,Processing
+ORDERS_STATUS_PAYMENT_PENDING,Payment pending
+ORDERS_STATUS_COMPLETED,Completed
+ORDERS_STATUS_CANCELED,Canceled
+ORDERS_STATUS_UNKNOWN,Unknown
+ADDRESS_TITLE,Addresses
+ADDRESS_SINGULAR,address
+ADDRESS_PLURAL,addresses
+ADDRESS_EMPTY_TITLE,No addresses yet
+ADDRESS_EMPTY_TEXT,Add your first address to get started
+ADDRESS_EDIT,Edit
+ADDRESS_DELETE,Delete
+ADDRESS_ADD_NEW,Add New Address
+ADDRESS_DEFAULT_SHIPPING,Default Shipping
+ADDRESS_DEFAULT_BILLING,Default Billing
+ADDRESS_CANNOT_DELETE,Cannot Delete
+ADDRESS_CANNOT_DELETE_DEFAULT,You cannot delete a default address. Please set another address as default first.
+ADDRESS_OK,OK
+ADDRESS_DELETE_TITLE,Delete Address
+ADDRESS_DELETE_CONFIRM,Are you sure you want to delete this address?
+ADDRESS_CANCEL,Cancel
+ADDRESS_SIGNIN_AGAIN,Please sign in again
+ADDRESS_SUCCESS,Success
+ADDRESS_DELETED_SUCCESS,Address deleted successfully
+ADDRESS_DELETE_FAILED,Failed to delete address
+
 
 
 
