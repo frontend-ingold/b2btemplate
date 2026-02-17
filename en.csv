@@ -237,6 +237,73 @@ PDP_CANCEL,Cancel
 PDP_SUBMIT_REVIEW,Submit Review
 PDP_SELECT_SIZE,Select a size
 PDP_VIEW_CART,View Cart
+CART_TITLE,Cart
+CART_ITEM,item
+CART_ITEMS,items
+CART_A11Y_GO_HOME,Go to home
+CART_A11Y_SEARCH_PRODUCTS,Search products
+CART_EMPTY_TITLE,Your bag is empty
+CART_EMPTY_SUBTITLE,Discover our latest arrivals and curated collections to find your next favorite piece.
+CART_START_SHOPPING,Start shopping
+CART_COLOR_LABEL,Color
+CART_SIZE_LABEL,Size
+CART_IMAGE_PLACEHOLDER,IMG
+CART_TOAST_QTY_UPDATED,Quantity updated successfully
+CART_REMOVE_ITEM_TITLE,Remove Item
+CART_REMOVE_ITEM_CONFIRM_PREFIX,Are you sure you want to remove
+CART_REMOVE_ITEM_CONFIRM_SUFFIX,from your cart?
+CART_CANCEL,Cancel
+CART_REMOVE,Remove
+CART_COUPON_INVALID,The coupon code is not valid. Please try again.
+CART_REMOVE_COUPON_FAILED,Failed to remove coupon. Please try again.
+CART_PROMO_CODE,Promo code
+CART_PROMO_HELPER,Add a code for extra savings.
+CART_PROMO_PLACEHOLDER,Enter code
+CART_APPLY,Apply
+CART_COUPON_APPLIED,Coupon Applied
+CART_DISCOUNT_APPLIED,Discount applied to your order
+CART_SUMMARY,Summary
+CART_SUBTOTAL,Subtotal
+CART_SHIPPING,Shipping
+CART_DISCOUNT,Discount
+CART_TOTAL,Total
+CART_CHECKOUT,Checkout
+CART_FOOTER_HINT,Secure checkout · Review shipping & taxes next
+CHECKOUT_PLACE_ORDER,Place Order
+CHECKOUT_TEL_PREFIX,Tel
+CHECKOUT_NO_ADDRESS,No shipping addresses available. Please add an address in your profile.
+CHECKOUT_SHIPPING_METHOD,Shipping Method
+CHECKOUT_LOADING_SHIPPING_METHODS,Loading shipping methods...
+CHECKOUT_SELECT_ADDRESS_FOR_SHIPPING,Please select a shipping address to view available shipping methods.
+CHECKOUT_PAYMENT_METHOD,Payment Method
+CHECKOUT_LOADING_PAYMENT_METHODS,Loading payment methods...
+CHECKOUT_NO_PAYMENT_METHODS,No payment methods available.
+CHECKOUT_ORDER_SUMMARY,Order Summary
+CHECKOUT_SUBTOTAL,Subtotal
+CHECKOUT_SHIPPING,Shipping
+CHECKOUT_DISCOUNT,Discount
+CHECKOUT_TOTAL,Total
+CHECKOUT_ACCEPT_TERMS,I accept the terms and conditions
+CHECKOUT_ADD_NOTE,Add a note
+CHECKOUT_TERMS_CONDITIONS,Terms and Conditions
+CHECKOUT_PAYPAL_CHECKOUT,PayPal Checkout
+CHECKOUT_ORDER_PLACED_SUCCESS,Order placed successfully!
+CHECKOUT_PAYMENT_CANCELLED_TITLE,Payment Cancelled
+CHECKOUT_PAYPAL_CANCELLED,PayPal payment was cancelled.
+CHECKOUT_PAYPAL_COMPLETE_FAILED,Unable to complete PayPal payment.
+CHECKOUT_ADDRESS_TERMS_REQUIRED,Please select an address and accept terms and conditions
+CHECKOUT_PAYMENT_REQUIRED,Please select a payment method
+CHECKOUT_CUSTOMER_INFO_FAILED,Unable to get customer information
+CHECKOUT_CART_INFO_FAILED,Unable to get cart information
+CHECKOUT_ADMIN_TOKEN_MISSING,Admin token missing. Please sign in again.
+CHECKOUT_PAYPAL_PENDING_ORDER_FAILED,Failed to create pending order for PayPal checkout
+CHECKOUT_PAYPAL_CREDENTIALS_MISSING,PayPal settings are missing client credentials
+CHECKOUT_PAYPAL_ACCESS_TOKEN_FAILED,Unable to get PayPal access token
+CHECKOUT_PAYPAL_ORDER_CREATE_FAILED,Failed to create PayPal checkout order
+CHECKOUT_PAYPAL_APPROVAL_LINK_MISSING,PayPal approval link was not returned
+CHECKOUT_ORDER_NUMBER_FAILED,Failed to get order number
+CHECKOUT_PLACE_ORDER_FAILED,Failed to place order. Please try again.
+
 
 
 

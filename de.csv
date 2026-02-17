@@ -237,6 +237,73 @@ PDP_CANCEL,Abbrechen
 PDP_SUBMIT_REVIEW,Bewertung absenden
 PDP_SELECT_SIZE,Größe auswählen
 PDP_VIEW_CART,Warenkorb anzeigen
+CART_TITLE,Warenkorb
+CART_ITEM,Artikel
+CART_ITEMS,Artikel
+CART_A11Y_GO_HOME,Zur Startseite
+CART_A11Y_SEARCH_PRODUCTS,Produkte suchen
+CART_EMPTY_TITLE,Ihre Tasche ist leer
+CART_EMPTY_SUBTITLE,Entdecken Sie unsere Neuheiten und kuratierten Kollektionen für Ihr nächstes Lieblingsstück.
+CART_START_SHOPPING,Einkauf starten
+CART_COLOR_LABEL,Farbe
+CART_SIZE_LABEL,Größe
+CART_IMAGE_PLACEHOLDER,BILD
+CART_TOAST_QTY_UPDATED,Menge erfolgreich aktualisiert
+CART_REMOVE_ITEM_TITLE,Artikel entfernen
+CART_REMOVE_ITEM_CONFIRM_PREFIX,Möchten Sie
+CART_REMOVE_ITEM_CONFIRM_SUFFIX,wirklich aus dem Warenkorb entfernen?
+CART_CANCEL,Abbrechen
+CART_REMOVE,Entfernen
+CART_COUPON_INVALID,Der Gutscheincode ist ungültig. Bitte versuchen Sie es erneut.
+CART_REMOVE_COUPON_FAILED,Gutschein konnte nicht entfernt werden. Bitte versuchen Sie es erneut.
+CART_PROMO_CODE,Gutscheincode
+CART_PROMO_HELPER,Fügen Sie einen Code für zusätzliche Ersparnis hinzu.
+CART_PROMO_PLACEHOLDER,Code eingeben
+CART_APPLY,Anwenden
+CART_COUPON_APPLIED,Gutschein angewendet
+CART_DISCOUNT_APPLIED,Rabatt wurde auf Ihre Bestellung angewendet
+CART_SUMMARY,Übersicht
+CART_SUBTOTAL,Zwischensumme
+CART_SHIPPING,Versand
+CART_DISCOUNT,Rabatt
+CART_TOTAL,Gesamt
+CART_CHECKOUT,Zur Kasse
+CART_FOOTER_HINT,Sicherer Checkout · Versand und Steuern im nächsten Schritt prüfen
+CHECKOUT_PLACE_ORDER,Bestellung aufgeben
+CHECKOUT_TEL_PREFIX,Tel
+CHECKOUT_NO_ADDRESS,Keine Versandadressen verfügbar. Bitte fügen Sie in Ihrem Profil eine Adresse hinzu.
+CHECKOUT_SHIPPING_METHOD,Versandart
+CHECKOUT_LOADING_SHIPPING_METHODS,Versandarten werden geladen...
+CHECKOUT_SELECT_ADDRESS_FOR_SHIPPING,Bitte wählen Sie eine Versandadresse, um verfügbare Versandarten zu sehen.
+CHECKOUT_PAYMENT_METHOD,Zahlungsart
+CHECKOUT_LOADING_PAYMENT_METHODS,Zahlungsarten werden geladen...
+CHECKOUT_NO_PAYMENT_METHODS,Keine Zahlungsarten verfügbar.
+CHECKOUT_ORDER_SUMMARY,Bestellübersicht
+CHECKOUT_SUBTOTAL,Zwischensumme
+CHECKOUT_SHIPPING,Versand
+CHECKOUT_DISCOUNT,Rabatt
+CHECKOUT_TOTAL,Gesamt
+CHECKOUT_ACCEPT_TERMS,Ich akzeptiere die Allgemeinen Geschäftsbedingungen
+CHECKOUT_ADD_NOTE,Notiz hinzufügen
+CHECKOUT_TERMS_CONDITIONS,Allgemeine Geschäftsbedingungen
+CHECKOUT_PAYPAL_CHECKOUT,PayPal Checkout
+CHECKOUT_ORDER_PLACED_SUCCESS,Bestellung erfolgreich aufgegeben!
+CHECKOUT_PAYMENT_CANCELLED_TITLE,Zahlung abgebrochen
+CHECKOUT_PAYPAL_CANCELLED,Die PayPal-Zahlung wurde abgebrochen.
+CHECKOUT_PAYPAL_COMPLETE_FAILED,PayPal-Zahlung konnte nicht abgeschlossen werden.
+CHECKOUT_ADDRESS_TERMS_REQUIRED,Bitte wählen Sie eine Adresse und akzeptieren Sie die Bedingungen.
+CHECKOUT_PAYMENT_REQUIRED,Bitte wählen Sie eine Zahlungsart.
+CHECKOUT_CUSTOMER_INFO_FAILED,Kundeninformationen konnten nicht geladen werden.
+CHECKOUT_CART_INFO_FAILED,Warenkorbinformationen konnten nicht geladen werden.
+CHECKOUT_ADMIN_TOKEN_MISSING,Admin-Token fehlt. Bitte erneut anmelden.
+CHECKOUT_PAYPAL_PENDING_ORDER_FAILED,Ausstehende Bestellung für PayPal-Checkout konnte nicht erstellt werden.
+CHECKOUT_PAYPAL_CREDENTIALS_MISSING,PayPal-Einstellungen enthalten keine Client-Zugangsdaten.
+CHECKOUT_PAYPAL_ACCESS_TOKEN_FAILED,PayPal-Access-Token konnte nicht abgerufen werden.
+CHECKOUT_PAYPAL_ORDER_CREATE_FAILED,PayPal-Checkout-Bestellung konnte nicht erstellt werden.
+CHECKOUT_PAYPAL_APPROVAL_LINK_MISSING,PayPal-Freigabelink wurde nicht zurückgegeben.
+CHECKOUT_ORDER_NUMBER_FAILED,Bestellnummer konnte nicht ermittelt werden.
+CHECKOUT_PLACE_ORDER_FAILED,Bestellung konnte nicht aufgegeben werden. Bitte versuchen Sie es erneut.
+
 
 
 
