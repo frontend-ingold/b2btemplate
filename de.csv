@@ -105,3 +105,51 @@ CAT_HEADER_SUBTITLE,Stöbere in kuratierten Kollektionen
 CAT_DISCOVER_ALL,Alles entdecken
 CAT_EMPTY_NO_CATEGORIES,Keine Kategorien
 CAT_EMPTY_SELECT_ANOTHER,Wähle eine andere Kategorie.
+COMMON_UPDATED_SUCCESS,Erfolgreich aktualisiert
+HOME_GREETING_MORNING,Guten Morgen
+HOME_GREETING_AFTERNOON,Guten Tag
+HOME_GREETING_EVENING,Guten Abend
+HOME_GREETING_FALLBACK_NAME,da
+HOME_ALL,Alle
+HOME_COLLECTION_TITLE,Kollektion 2026
+HOME_COLLECTION_SUBTITLE,Neu definierte Eleganz — kuratierte Farben und perfekte Passformen
+HOME_VIEW_COLLECTION,Kollektion ansehen
+HOME_SEARCH_PLACEHOLDER,Nach Produkten suchen
+HOME_PLEASE_WAIT,Bitte warten.
+HOME_VIEW_ALL,Alle anzeigen
+HOME_QUICK_VIEW,Schnellansicht
+HOME_ADD_MORE,Mehr hinzufügen
+HOME_ADD_TO_BAG,In den Warenkorb
+HOME_NEW_ARRIVALS,Neu eingetroffen
+HOME_BEST_SELLERS,Bestseller
+HOME_BACK_IN_STOCK,Wieder auf Lager
+HOME_CATEGORIES,Kategorien
+HOME_ITEMS_SUFFIX,Artikel
+HOME_QUANTITY_UPDATED_SUCCESS,Menge erfolgreich aktualisiert
+FOOTER_HOME,Startseite
+FOOTER_CATEGORY,Kategorie
+FOOTER_ORDERS,Bestellungen
+FOOTER_CART,Warenkorb
+FOOTER_PROFILE,Profil
+LANGUAGE_TITLE,Sprache auswählen
+LANGUAGE_SUBTITLE,Die App-Oberfläche wird in dieser Sprache angezeigt.
+LANGUAGE_CURRENT,Aktuell
+LANGUAGE_DEFAULT,Standard
+ALERT_LOGIN_REQUIRED_TITLE,Anmeldung erforderlich
+ALERT_LOGIN_REQUIRED_ADD_CART,Bitte melden Sie sich an, um Artikel in den Warenkorb zu legen.
+ALERT_LOGIN_REQUIRED_RELOGIN_ADD_CART,Bitte melden Sie sich erneut an, um Artikel in den Warenkorb zu legen.
+ALERT_LOGIN_REQUIRED_RELOGIN,Bitte melden Sie sich erneut an.
+ALERT_CART_ERROR_TITLE,Warenkorbfehler
+ALERT_CART_ERROR_MESSAGE,Warenkorb konnte nicht erstellt oder geladen werden. Bitte versuchen Sie es erneut.
+ALERT_SUCCESSFULLY_ADDED,Erfolgreich hinzugefügt
+ALERT_SUCCESS_TITLE,Erfolg
+ALERT_PRODUCT_ADDED_TO_CART,Produkt wurde zum Warenkorb hinzugefügt
+ALERT_ERROR_TITLE,Fehler
+ALERT_FAILED_ADD_TO_CART,Produkt konnte nicht zum Warenkorb hinzugefügt werden
+ALERT_CUSTOMER_ID_NOT_FOUND,Kunden-ID nicht gefunden. Bitte melden Sie sich erneut an.
+ALERT_FAILED_LOAD_PRODUCT_DETAILS,Produktdetails konnten nicht geladen werden
+ALERT_SELECT_SIZE_TITLE,Größe auswählen
+ALERT_SELECT_SIZE_MESSAGE,Bitte wählen Sie mindestens eine Größe aus, um den Artikel in den Warenkorb zu legen.
+ALERT_FAILED_UPDATE_QUANTITY,Menge konnte nicht aktualisiert werden
+TOP_RATED_PRODUCTS,Top-bewertete Produkte
+BACK_IN_STOCK_SUBTITLE,Frische Nachlieferungen Ihrer Favoriten

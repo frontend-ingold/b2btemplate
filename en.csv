@@ -105,3 +105,51 @@ CAT_HEADER_SUBTITLE,Browse curated collections
 CAT_DISCOVER_ALL,Discover All
 CAT_EMPTY_NO_CATEGORIES,No categories
 CAT_EMPTY_SELECT_ANOTHER,Select another category.
+COMMON_UPDATED_SUCCESS,Updated successfully
+HOME_GREETING_MORNING,Good Morning
+HOME_GREETING_AFTERNOON,Good Afternoon
+HOME_GREETING_EVENING,Good Evening
+HOME_GREETING_FALLBACK_NAME,there
+HOME_ALL,All
+HOME_COLLECTION_TITLE,Collection 2026
+HOME_COLLECTION_SUBTITLE,Elegance redefined — curated colors & tailored fits
+HOME_VIEW_COLLECTION,View Collection
+HOME_SEARCH_PLACEHOLDER,Search for products
+HOME_PLEASE_WAIT,Please wait.
+HOME_VIEW_ALL,View All
+HOME_QUICK_VIEW,Quick View
+HOME_ADD_MORE,Add more
+HOME_ADD_TO_BAG,Add to bag
+HOME_NEW_ARRIVALS,New Arrivals
+HOME_BEST_SELLERS,Best Sellers
+HOME_BACK_IN_STOCK,Back in Stock
+HOME_CATEGORIES,Categories
+HOME_ITEMS_SUFFIX,items
+HOME_QUANTITY_UPDATED_SUCCESS,Quantity updated successfully
+FOOTER_HOME,Home
+FOOTER_CATEGORY,Category
+FOOTER_ORDERS,Orders
+FOOTER_CART,Cart
+FOOTER_PROFILE,Profile
+LANGUAGE_TITLE,Choose your language
+LANGUAGE_SUBTITLE,The interface language will be applied across the app.
+LANGUAGE_CURRENT,Current
+LANGUAGE_DEFAULT,Default
+ALERT_LOGIN_REQUIRED_TITLE,Login required
+ALERT_LOGIN_REQUIRED_ADD_CART,Please sign in to add items to your cart.
+ALERT_LOGIN_REQUIRED_RELOGIN_ADD_CART,Please sign in again to add items to your cart.
+ALERT_LOGIN_REQUIRED_RELOGIN,Please sign in again.
+ALERT_CART_ERROR_TITLE,Cart error
+ALERT_CART_ERROR_MESSAGE,Unable to create or load your cart. Please try again.
+ALERT_SUCCESSFULLY_ADDED,Successfully added
+ALERT_SUCCESS_TITLE,Success
+ALERT_PRODUCT_ADDED_TO_CART,Product added to cart
+ALERT_ERROR_TITLE,Error
+ALERT_FAILED_ADD_TO_CART,Failed to add product to cart
+ALERT_CUSTOMER_ID_NOT_FOUND,Customer ID not found. Please login again.
+ALERT_FAILED_LOAD_PRODUCT_DETAILS,Failed to load product details
+ALERT_SELECT_SIZE_TITLE,Select size
+ALERT_SELECT_SIZE_MESSAGE,Please choose at least one size to add this item to the bag.
+ALERT_FAILED_UPDATE_QUANTITY,Failed to update quantity
+TOP_RATED_PRODUCTS,Top rated products
+BACK_IN_STOCK_SUBTITLE,Fresh batches of your favorites
