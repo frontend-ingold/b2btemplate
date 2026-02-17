@@ -425,6 +425,55 @@ CHANGE_PASSWORD_SUCCESS_TITLE,Erfolg
 CHANGE_PASSWORD_SUCCESS,Passwort erfolgreich geaendert
 CHANGE_PASSWORD_OK,OK
 CHANGE_PASSWORD_FAILED,Passwort konnte nicht geaendert werden. Bitte versuchen Sie es erneut.
+FORGOT_PASSWORD_TITLE,Passwort vergessen
+FORGOT_PASSWORD_SUBTITLE,Wir senden einen Reset-Link an Ihre E-Mail
+FORGOT_PASSWORD_EMAIL,E-Mail
+FORGOT_PASSWORD_EMAIL_PLACEHOLDER,E-Mail eingeben
+FORGOT_PASSWORD_SEND_LINK,Reset-Link senden
+FORGOT_PASSWORD_INVALID_EMAIL,Bitte geben Sie eine gueltige E-Mail-Adresse ein
+FORGOT_PASSWORD_SEND_FAILED,Reset-E-Mail konnte nicht gesendet werden. Bitte versuchen Sie es erneut.
+FORGOT_PASSWORD_SUCCESS_TITLE,Posteingang pruefen
+FORGOT_PASSWORD_SUCCESS_TEXT_PREFIX,Wenn ein Konto existiert fuer
+FORGOT_PASSWORD_SUCCESS_TEXT_SUFFIX,erhalten Sie in Kuerze eine E-Mail zum Zuruecksetzen des Passworts.
+FORGOT_PASSWORD_BACK_TO_SIGNIN,Zurueck zur Anmeldung
+ADDRESS_EDIT_TITLE,Adresse bearbeiten
+ADDRESS_ADD_TITLE,Neue Adresse hinzufuegen
+ADDRESS_PERSONAL_INFO,Persoenliche Informationen
+ADDRESS_FIRST_NAME,Vorname
+ADDRESS_LAST_NAME,Nachname
+ADDRESS_PHONE,Telefonnummer
+ADDRESS_COMPANY,Firma
+ADDRESS_INFO,Adressinformationen
+ADDRESS_STREET,Strasse und Hausnummer
+ADDRESS_CITY,Stadt
+ADDRESS_POSTAL_CODE,Postleitzahl
+ADDRESS_COUNTRY,Land
+ADDRESS_STATE_REGION,Bundesland/Region
+ADDRESS_SELECT_COUNTRY,Land waehlen
+ADDRESS_SELECT_STATE_REGION,Bundesland/Region waehlen
+ADDRESS_SELECT_COUNTRY_PLACEHOLDER,Land waehlen
+ADDRESS_SELECT_REGION_PLACEHOLDER,Region waehlen
+ADDRESS_LOADING,Laden...
+ADDRESS_NO_REGIONS,Keine Regionen verfuegbar
+ADDRESS_DEFAULT_SHIPPING_LABEL,Standard-Versandadresse
+ADDRESS_DEFAULT_SHIPPING_DESC,Als primaere Versandadresse verwenden
+ADDRESS_DEFAULT_BILLING_LABEL,Standard-Rechnungsadresse
+ADDRESS_DEFAULT_BILLING_DESC,Als primaere Rechnungsadresse verwenden
+ADDRESS_SAVE_BUTTON,Adresse speichern
+ADDRESS_UPDATE_BUTTON,Adresse aktualisieren
+ADDRESS_CREATED_SUCCESS,Adresse erfolgreich erstellt
+ADDRESS_UPDATED_SUCCESS,Adresse erfolgreich aktualisiert
+ADDRESS_SAVE_FAILED,Adresse konnte nicht gespeichert werden
+ADDRESS_VALIDATION_ERROR,Validierungsfehler
+ADDRESS_VALIDATION_REQUIRED,Bitte fuellen Sie alle Pflichtfelder aus
+ADDRESS_ERR_FIRST_NAME_REQUIRED,Vorname ist erforderlich
+ADDRESS_ERR_LAST_NAME_REQUIRED,Nachname ist erforderlich
+ADDRESS_ERR_PHONE_REQUIRED,Telefonnummer ist erforderlich
+ADDRESS_ERR_STREET_REQUIRED,Strassenadresse ist erforderlich
+ADDRESS_ERR_CITY_REQUIRED,Stadt ist erforderlich
+ADDRESS_ERR_POSTCODE_REQUIRED,Postleitzahl ist erforderlich
+ADDRESS_ERR_COUNTRY_REQUIRED,Land ist erforderlich
+
 
 
 

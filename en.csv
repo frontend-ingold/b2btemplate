@@ -479,6 +479,56 @@ USERS_ACTIVE_STATUS,Aktiver Status
 USERS_CANCEL,Abbrechen
 USERS_SAVE,Speichern
 USERS_CREATE,Erstellen
+FORGOT_PASSWORD_TITLE,Forgot Password
+FORGOT_PASSWORD_SUBTITLE,We will send a reset link to your email
+FORGOT_PASSWORD_EMAIL,Email
+FORGOT_PASSWORD_EMAIL_PLACEHOLDER,Enter your email
+FORGOT_PASSWORD_SEND_LINK,Send Reset Link
+FORGOT_PASSWORD_INVALID_EMAIL,Please enter a valid email address
+FORGOT_PASSWORD_SEND_FAILED,Unable to send reset email. Please try again.
+FORGOT_PASSWORD_SUCCESS_TITLE,Check your inbox
+FORGOT_PASSWORD_SUCCESS_TEXT_PREFIX,If an account exists for
+FORGOT_PASSWORD_SUCCESS_TEXT_SUFFIX,you will receive a password reset email shortly.
+FORGOT_PASSWORD_BACK_TO_SIGNIN,Back to Sign In
+ADDRESS_EDIT_TITLE,Edit Address
+ADDRESS_ADD_TITLE,Add New Address
+ADDRESS_PERSONAL_INFO,Personal Information
+ADDRESS_FIRST_NAME,First Name
+ADDRESS_LAST_NAME,Last Name
+ADDRESS_PHONE,Phone Number
+ADDRESS_COMPANY,Company
+ADDRESS_INFO,Address Information
+ADDRESS_STREET,Street Address
+ADDRESS_CITY,City
+ADDRESS_POSTAL_CODE,Postal Code
+ADDRESS_COUNTRY,Country
+ADDRESS_STATE_REGION,State/Region
+ADDRESS_SELECT_COUNTRY,Select Country
+ADDRESS_SELECT_STATE_REGION,Select State/Region
+ADDRESS_SELECT_COUNTRY_PLACEHOLDER,Select country
+ADDRESS_SELECT_REGION_PLACEHOLDER,Select region
+ADDRESS_LOADING,Loading...
+ADDRESS_NO_REGIONS,No regions available
+ADDRESS_DEFAULT_SHIPPING_LABEL,Default Shipping Address
+ADDRESS_DEFAULT_SHIPPING_DESC,Use as primary shipping address
+ADDRESS_DEFAULT_BILLING_LABEL,Default Billing Address
+ADDRESS_DEFAULT_BILLING_DESC,Use as primary billing address
+ADDRESS_SAVE_BUTTON,Save Address
+ADDRESS_UPDATE_BUTTON,Update Address
+ADDRESS_CREATED_SUCCESS,Address created successfully
+ADDRESS_UPDATED_SUCCESS,Address updated successfully
+ADDRESS_SAVE_FAILED,Failed to save address
+ADDRESS_VALIDATION_ERROR,Validation Error
+ADDRESS_VALIDATION_REQUIRED,Please fill in all required fields
+ADDRESS_ERR_FIRST_NAME_REQUIRED,First name is required
+ADDRESS_ERR_LAST_NAME_REQUIRED,Last name is required
+ADDRESS_ERR_PHONE_REQUIRED,Phone number is required
+ADDRESS_ERR_STREET_REQUIRED,Street address is required
+ADDRESS_ERR_CITY_REQUIRED,City is required
+ADDRESS_ERR_POSTCODE_REQUIRED,Postal code is required
+ADDRESS_ERR_COUNTRY_REQUIRED,Country is required
+
+
 
 
 
