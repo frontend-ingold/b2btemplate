@@ -186,5 +186,57 @@ PLP_CLEAR_ALL,Clear All
 PLP_APPLYING,Applying...
 PLP_APPLY_FILTERS_LOADING,Apply Filters (...)
 PLP_APPLY_FILTERS,Apply Filters
+PDP_PRODUCT_FALLBACK,Product
+PDP_REVIEW_LOGIN_REQUIRED,Please sign in to add a review.
+PDP_ERROR_SKU_NOT_FOUND,Product SKU not found.
+PDP_REVIEW_REQUIRED_FIELDS_TITLE,Required fields
+PDP_REVIEW_REQUIRED_FIELDS_TEXT,Please fill nickname, summary, review, and rating.
+PDP_REVIEW_SUBMIT_FAILED,Failed to submit review. Please try again.
+PDP_REVIEW_SUBMITTED,Review submitted
+PDP_SHARE_TITLE,Product Details
+PDP_SHARE_MESSAGE_PREFIX,Check out this amazing product:
+PDP_TOAST_ADDED_TO_CART,Product added to cart successfully
+PDP_ADD_TO_CART_FAILED,Unable to add this item to your cart. Please try again.
+PDP_WISHLIST_LOGIN_REQUIRED,Please login to use wishlist
+PDP_WISHLIST_AUTH_ERROR,Unable to get authentication details
+PDP_WISHLIST_ID_ERROR,Unable to get wishlist ID
+PDP_WISHLIST_ADDED,Added to wishlist
+PDP_WISHLIST_REMOVED,Removed from wishlist
+PDP_WISHLIST_UPDATE_FAILED,Failed to update wishlist
+PDP_AVAILABILITY_AVAILABLE,Available
+PDP_AVAILABILITY_SEMI,Semi-available
+PDP_AVAILABILITY_UNAVAILABLE,Unavailable
+PDP_BUY_PREFIX,Buy
+PDP_FOR_PREFIX,for
+PDP_EACH_SUFFIX,each
+PDP_AND_SAVE_PREFIX,and save
+PDP_TIER_NOTE,Note: Above discount will be applicable only on same color and size
+PDP_COLOR_LABEL,Color:
+PDP_ADD_REVIEW,Add Review
+PDP_ADD_TO_BAG,Add to bag
+PDP_CHOOSE_SIZE,Choose size
+PDP_SIZE_LABEL,Size
+PDP_QTY_LABEL,Qty
+PDP_SIZES_SELECTED_SUFFIX,sizes selected
+PDP_DETAILS_TITLE,Details
+PDP_REVIEWS_TITLE,Reviews
+PDP_REVIEW_FALLBACK_TITLE,Review
+PDP_REVIEW_ANONYMOUS,Anonymous
+PDP_MORE_LIKE_THIS_TITLE,More Like This
+PDP_RELATED_PRODUCTS_TITLE,Related Products
+PDP_CUSTOM_OPTIONS_TITLE,Custom Options
+PDP_VIEWER_PREV,Prev
+PDP_VIEWER_NEXT,Next
+PDP_WRITE_REVIEW_TITLE,Write Your Own Review
+PDP_YOURE_REVIEWING_PREFIX,You're reviewing:
+PDP_YOUR_RATING,Your Rating:
+PDP_REVIEW_NICKNAME_PLACEHOLDER,Nickname*
+PDP_REVIEW_SUMMARY_PLACEHOLDER,Summary*
+PDP_REVIEW_TEXT_PLACEHOLDER,Review*
+PDP_CANCEL,Cancel
+PDP_SUBMIT_REVIEW,Submit Review
+PDP_SELECT_SIZE,Select a size
+PDP_VIEW_CART,View Cart
+
 
 

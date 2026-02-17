@@ -186,5 +186,57 @@ PLP_CLEAR_ALL,Alles löschen
 PLP_APPLYING,Wird angewendet...
 PLP_APPLY_FILTERS_LOADING,Filter anwenden (...)
 PLP_APPLY_FILTERS,Filter anwenden
+PDP_PRODUCT_FALLBACK,Produkt
+PDP_REVIEW_LOGIN_REQUIRED,Bitte melden Sie sich an, um eine Bewertung abzugeben.
+PDP_ERROR_SKU_NOT_FOUND,Produkt-SKU nicht gefunden.
+PDP_REVIEW_REQUIRED_FIELDS_TITLE,Pflichtfelder
+PDP_REVIEW_REQUIRED_FIELDS_TEXT,Bitte füllen Sie Nickname, Zusammenfassung, Bewertungstext und Sternebewertung aus.
+PDP_REVIEW_SUBMIT_FAILED,Bewertung konnte nicht gesendet werden. Bitte versuchen Sie es erneut.
+PDP_REVIEW_SUBMITTED,Bewertung gesendet
+PDP_SHARE_TITLE,Produktdetails
+PDP_SHARE_MESSAGE_PREFIX,Schau dir dieses tolle Produkt an:
+PDP_TOAST_ADDED_TO_CART,Produkt wurde erfolgreich in den Warenkorb gelegt
+PDP_ADD_TO_CART_FAILED,Dieses Produkt konnte nicht in den Warenkorb gelegt werden. Bitte versuchen Sie es erneut.
+PDP_WISHLIST_LOGIN_REQUIRED,Bitte melden Sie sich an, um die Wunschliste zu nutzen
+PDP_WISHLIST_AUTH_ERROR,Authentifizierungsdaten konnten nicht geladen werden
+PDP_WISHLIST_ID_ERROR,Wunschlisten-ID konnte nicht geladen werden
+PDP_WISHLIST_ADDED,Zur Wunschliste hinzugefügt
+PDP_WISHLIST_REMOVED,Von der Wunschliste entfernt
+PDP_WISHLIST_UPDATE_FAILED,Wunschliste konnte nicht aktualisiert werden
+PDP_AVAILABILITY_AVAILABLE,Verfügbar
+PDP_AVAILABILITY_SEMI,Teilweise verfügbar
+PDP_AVAILABILITY_UNAVAILABLE,Nicht verfügbar
+PDP_BUY_PREFIX,Kaufe
+PDP_FOR_PREFIX,für
+PDP_EACH_SUFFIX,pro Stück
+PDP_AND_SAVE_PREFIX,und spare
+PDP_TIER_NOTE,Hinweis: Der obige Rabatt gilt nur für gleiche Farbe und Größe
+PDP_COLOR_LABEL,Farbe:
+PDP_ADD_REVIEW,Bewertung hinzufügen
+PDP_ADD_TO_BAG,In den Warenkorb
+PDP_CHOOSE_SIZE,Größe wählen
+PDP_SIZE_LABEL,Größe
+PDP_QTY_LABEL,Menge
+PDP_SIZES_SELECTED_SUFFIX,Größen ausgewählt
+PDP_DETAILS_TITLE,Details
+PDP_REVIEWS_TITLE,Bewertungen
+PDP_REVIEW_FALLBACK_TITLE,Bewertung
+PDP_REVIEW_ANONYMOUS,Anonym
+PDP_MORE_LIKE_THIS_TITLE,Ähnliche Produkte
+PDP_RELATED_PRODUCTS_TITLE,Ähnliche Produkte
+PDP_CUSTOM_OPTIONS_TITLE,Individuelle Optionen
+PDP_VIEWER_PREV,Zurück
+PDP_VIEWER_NEXT,Weiter
+PDP_WRITE_REVIEW_TITLE,Schreiben Sie Ihre Bewertung
+PDP_YOURE_REVIEWING_PREFIX,Sie bewerten:
+PDP_YOUR_RATING,Ihre Bewertung:
+PDP_REVIEW_NICKNAME_PLACEHOLDER,Nickname*
+PDP_REVIEW_SUMMARY_PLACEHOLDER,Zusammenfassung*
+PDP_REVIEW_TEXT_PLACEHOLDER,Bewertung*
+PDP_CANCEL,Abbrechen
+PDP_SUBMIT_REVIEW,Bewertung absenden
+PDP_SELECT_SIZE,Größe auswählen
+PDP_VIEW_CART,Warenkorb anzeigen
+
 
 
