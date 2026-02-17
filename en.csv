@@ -425,6 +425,62 @@ CHANGE_PASSWORD_SUCCESS_TITLE,Success
 CHANGE_PASSWORD_SUCCESS,Password changed successfully
 CHANGE_PASSWORD_OK,OK
 CHANGE_PASSWORD_FAILED,Failed to change password. Please try again.
+USERS_VALIDATION_TITLE,Validation
+USERS_REQUIRED_FIELDS,First name, last name, and email are required.
+USERS_INVALID_EMAIL,Please enter a valid email address.
+USERS_INVALID_ROLE,Please choose a valid role.
+USERS_SIGNIN_AGAIN,Please sign in again.
+USERS_SUCCESS_TITLE,Success
+USERS_UPDATED_SUCCESS,User updated successfully.
+USERS_CREATED_SUCCESS,User created successfully.
+USERS_SAVE_FAILED,Unable to save user.
+USERS_NEW_USER,New User
+USERS_MODAL_EDIT_TITLE,Edit User
+USERS_MODAL_NEW_TITLE,New User
+USERS_FIRST_NAME,First Name
+USERS_FIRST_NAME_PLACEHOLDER,First name
+USERS_LAST_NAME,Last Name
+USERS_LAST_NAME_PLACEHOLDER,Last name
+USERS_EMAIL,Email
+USERS_EMAIL_PLACEHOLDER,name@company.com
+USERS_ROLE,User Role
+USERS_ROLE_PURCHASE_MANAGER,Purchase Manager
+USERS_ROLE_DEFAULT_USER,Default User
+USERS_ROLE_ID,Role ID
+USERS_ROLE_ID_PLACEHOLDER,Role id
+USERS_ACTIVE_STATUS,Active Status
+USERS_CANCEL,Cancel
+USERS_SAVE,Save
+USERS_CREATE,Create
+USERS_VALIDATION_TITLE,Validierung
+USERS_REQUIRED_FIELDS,Vorname, Nachname und E-Mail sind erforderlich.
+USERS_INVALID_EMAIL,Bitte geben Sie eine gueltige E-Mail-Adresse ein.
+USERS_INVALID_ROLE,Bitte waehlen Sie eine gueltige Rolle.
+USERS_SIGNIN_AGAIN,Bitte melden Sie sich erneut an.
+USERS_SUCCESS_TITLE,Erfolg
+USERS_UPDATED_SUCCESS,Benutzer erfolgreich aktualisiert.
+USERS_CREATED_SUCCESS,Benutzer erfolgreich erstellt.
+USERS_SAVE_FAILED,Benutzer konnte nicht gespeichert werden.
+USERS_NEW_USER,Neuer Benutzer
+USERS_MODAL_EDIT_TITLE,Benutzer bearbeiten
+USERS_MODAL_NEW_TITLE,Neuer Benutzer
+USERS_FIRST_NAME,Vorname
+USERS_FIRST_NAME_PLACEHOLDER,Vorname
+USERS_LAST_NAME,Nachname
+USERS_LAST_NAME_PLACEHOLDER,Nachname
+USERS_EMAIL,E-Mail
+USERS_EMAIL_PLACEHOLDER,name@firma.com
+USERS_ROLE,Benutzerrolle
+USERS_ROLE_PURCHASE_MANAGER,Einkaufsleiter
+USERS_ROLE_DEFAULT_USER,Standardbenutzer
+USERS_ROLE_ID,Rollen-ID
+USERS_ROLE_ID_PLACEHOLDER,Rollen-ID
+USERS_ACTIVE_STATUS,Aktiver Status
+USERS_CANCEL,Abbrechen
+USERS_SAVE,Speichern
+USERS_CREATE,Erstellen
+
+
 
 
 
