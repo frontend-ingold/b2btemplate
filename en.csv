@@ -153,3 +153,38 @@ ALERT_SELECT_SIZE_MESSAGE,Please choose at least one size to add this item to th
 ALERT_FAILED_UPDATE_QUANTITY,Failed to update quantity
 TOP_RATED_PRODUCTS,Top rated products
 BACK_IN_STOCK_SUBTITLE,Fresh batches of your favorites
+SEARCH_TITLE,Search
+SEARCH_PLACEHOLDER,Search for products, styles or codes
+SEARCH_RESULT_SINGLE_FOUND,result found
+SEARCH_RESULT_MULTI_FOUND,results found
+SEARCH_SKU_PREFIX,SKU
+SEARCH_NO_RESULTS_TITLE,No results found
+SEARCH_NO_RESULTS_TEXT,Try searching with different keywords
+SEARCH_RECENT_SEARCHES,Recent searches
+SEARCH_CLEAR,Clear
+SEARCH_QUICK_FILTERS,Quick filters
+SEARCH_EXPLORE_NOW,Explore now
+SEARCH_COLLECTION,Collection
+PLP_CATEGORY_FALLBACK,Category
+PLP_CATEGORY_NOT_FOUND_TITLE,Category not found
+PLP_CATEGORY_NOT_FOUND_TEXT,Please go back and select a valid category.
+PLP_GO_BACK,Go Back
+PLP_NO_PRODUCTS_TITLE,No products found
+PLP_NO_PRODUCTS_IN_CATEGORY_TEXT,No products available in this category. Try selecting a different category or adjusting your filters.
+PLP_NO_PRODUCTS_IN_SELECTED_PREFIX,No products available in
+PLP_NO_PRODUCTS_IN_SELECTED_SUFFIX,category.
+PLP_NO_PRODUCTS_IN_CATEGORY_SIMPLE,No products available in this category.
+PLP_SHOW_ALL_PRODUCTS,Show All Products
+PLP_LOADING_MORE_PRODUCTS,Loading more products...
+PLP_FILTERS_SORT_TITLE,Filters & Sort
+PLP_SORT_BY,Sort By
+PLP_SORT_OPTION_POSITION,Position
+PLP_SORT_OPTION_PRODUCT_NAME,Product Name
+PLP_SORT_OPTION_PRICE,Price
+PLP_SELECT_SORT_OPTION,Select sort option
+PLP_CLEAR_ALL,Clear All
+PLP_APPLYING,Applying...
+PLP_APPLY_FILTERS_LOADING,Apply Filters (...)
+PLP_APPLY_FILTERS,Apply Filters
+
+

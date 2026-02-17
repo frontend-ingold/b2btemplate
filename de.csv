@@ -153,3 +153,38 @@ ALERT_SELECT_SIZE_MESSAGE,Bitte wählen Sie mindestens eine Größe aus, um den 
 ALERT_FAILED_UPDATE_QUANTITY,Menge konnte nicht aktualisiert werden
 TOP_RATED_PRODUCTS,Top-bewertete Produkte
 BACK_IN_STOCK_SUBTITLE,Frische Nachlieferungen Ihrer Favoriten
+SEARCH_TITLE,Suche
+SEARCH_PLACEHOLDER,Nach Produkten, Stilen oder Codes suchen
+SEARCH_RESULT_SINGLE_FOUND,Ergebnis gefunden
+SEARCH_RESULT_MULTI_FOUND,Ergebnisse gefunden
+SEARCH_SKU_PREFIX,SKU
+SEARCH_NO_RESULTS_TITLE,Keine Ergebnisse gefunden
+SEARCH_NO_RESULTS_TEXT,Versuchen Sie es mit anderen Suchbegriffen
+SEARCH_RECENT_SEARCHES,Letzte Suchanfragen
+SEARCH_CLEAR,Löschen
+SEARCH_QUICK_FILTERS,Schnellfilter
+SEARCH_EXPLORE_NOW,Jetzt entdecken
+SEARCH_COLLECTION,Kollektion
+PLP_CATEGORY_FALLBACK,Kategorie
+PLP_CATEGORY_NOT_FOUND_TITLE,Kategorie nicht gefunden
+PLP_CATEGORY_NOT_FOUND_TEXT,Bitte gehen Sie zurück und wählen Sie eine gültige Kategorie aus.
+PLP_GO_BACK,Zurück
+PLP_NO_PRODUCTS_TITLE,Keine Produkte gefunden
+PLP_NO_PRODUCTS_IN_CATEGORY_TEXT,In dieser Kategorie sind keine Produkte verfügbar. Wählen Sie eine andere Kategorie oder passen Sie Ihre Filter an.
+PLP_NO_PRODUCTS_IN_SELECTED_PREFIX,Keine Produkte verfügbar in
+PLP_NO_PRODUCTS_IN_SELECTED_SUFFIX,Kategorie.
+PLP_NO_PRODUCTS_IN_CATEGORY_SIMPLE,In dieser Kategorie sind keine Produkte verfügbar.
+PLP_SHOW_ALL_PRODUCTS,Alle Produkte anzeigen
+PLP_LOADING_MORE_PRODUCTS,Weitere Produkte werden geladen...
+PLP_FILTERS_SORT_TITLE,Filter & Sortierung
+PLP_SORT_BY,Sortieren nach
+PLP_SORT_OPTION_POSITION,Position
+PLP_SORT_OPTION_PRODUCT_NAME,Produktname
+PLP_SORT_OPTION_PRICE,Preis
+PLP_SELECT_SORT_OPTION,Sortieroption auswählen
+PLP_CLEAR_ALL,Alles löschen
+PLP_APPLYING,Wird angewendet...
+PLP_APPLY_FILTERS_LOADING,Filter anwenden (...)
+PLP_APPLY_FILTERS,Filter anwenden
+
+
