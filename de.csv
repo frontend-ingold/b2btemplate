@@ -473,6 +473,10 @@ ADDRESS_ERR_STREET_REQUIRED,Strassenadresse ist erforderlich
 ADDRESS_ERR_CITY_REQUIRED,Stadt ist erforderlich
 ADDRESS_ERR_POSTCODE_REQUIRED,Postleitzahl ist erforderlich
 ADDRESS_ERR_COUNTRY_REQUIRED,Land ist erforderlich
+NETWORK_ERROR_TITLE,Keine Internetverbindung
+NETWORK_ERROR_MESSAGE,Bitte pruefen Sie Ihre Internetverbindung und versuchen Sie es erneut.
+NETWORK_ERROR_RETRY,Erneut versuchen
+
 
 
 

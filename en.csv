@@ -527,6 +527,9 @@ ADDRESS_ERR_STREET_REQUIRED,Street address is required
 ADDRESS_ERR_CITY_REQUIRED,City is required
 ADDRESS_ERR_POSTCODE_REQUIRED,Postal code is required
 ADDRESS_ERR_COUNTRY_REQUIRED,Country is required
+NETWORK_ERROR_TITLE,No Internet Connection
+NETWORK_ERROR_MESSAGE,Please check your network and try again.
+NETWORK_ERROR_RETRY,Try Again
 
 
 
