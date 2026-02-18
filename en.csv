@@ -530,6 +530,8 @@ ADDRESS_ERR_COUNTRY_REQUIRED,Country is required
 NETWORK_ERROR_TITLE,No Internet Connection
 NETWORK_ERROR_MESSAGE,Please check your network and try again.
 NETWORK_ERROR_RETRY,Try Again
+SEARCH_VOICE_TITLE,Listening...
+SEARCH_VOICE_HINT,Say something to search products
 
 
 

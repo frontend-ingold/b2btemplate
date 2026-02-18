@@ -476,6 +476,8 @@ ADDRESS_ERR_COUNTRY_REQUIRED,Land ist erforderlich
 NETWORK_ERROR_TITLE,Keine Internetverbindung
 NETWORK_ERROR_MESSAGE,Bitte pruefen Sie Ihre Internetverbindung und versuchen Sie es erneut.
 NETWORK_ERROR_RETRY,Erneut versuchen
+SEARCH_VOICE_TITLE,Zuhören…
+SEARCH_VOICE_HINT,Sagen Sie einen Produktnamen, um zu suchen
 
 
 
