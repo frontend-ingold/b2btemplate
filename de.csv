@@ -478,6 +478,7 @@ NETWORK_ERROR_MESSAGE,Bitte pruefen Sie Ihre Internetverbindung und versuchen Si
 NETWORK_ERROR_RETRY,Erneut versuchen
 SEARCH_VOICE_TITLE,Zuhören…
 SEARCH_VOICE_HINT,Sagen Sie einen Produktnamen, um zu suchen
+PDP_NO_DETAILS,Keine Details verfügbar.
 
 
 
