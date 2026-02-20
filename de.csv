@@ -2,29 +2,27 @@ LANG_KEY,DE_TEXT
 AUTH_WELCOME_TITLE,Willkommen zurück
 AUTH_SIGNIN_SUBTITLE,Melden Sie sich an, um fortzufahren
 AUTH_SIGNIN_EMAIL_LABEL,E-Mail
-AUTH_SIGNIN_EMAIL_PLACEHOLDER,Geben Sie Ihre E-Mail ein
+AUTH_SIGNIN_EMAIL_PLACEHOLDER,Geben Sie Ihre E-Mail-Adresse ein
 AUTH_SIGNIN_PASSWORD_LABEL,Passwort
 AUTH_SIGNIN_PASSWORD_PLACEHOLDER,Geben Sie Ihr Passwort ein
 AUTH_SIGNIN_FORGOT_PASSWORD,Passwort vergessen?
 AUTH_SIGNIN_BUTTON,Anmelden
 AUTH_SIGNIN_CREATE_ACCOUNT,Konto erstellen
 AUTH_SIGNIN_ERROR_TITLE,Fehler
-AUTH_SIGNIN_ERROR_MESSAGE,"Bitte geben Sie E-Mail und Passwort ein"
-
+AUTH_SIGNIN_ERROR_MESSAGE,Bitte geben Sie E-Mail und Passwort ein
 AUTH_SIGNUP_HEADER,Neues Kundenkonto erstellen
 AUTH_SIGNUP_SECTION_PERSONAL,Persönliche Informationen
-AUTH_SIGNUP_SECTION_ADDRESS,Adressdaten
-AUTH_SIGNUP_SECTION_SIGNIN,Anmeldedaten
-
+AUTH_SIGNUP_SECTION_ADDRESS,Adressinformationen
+AUTH_SIGNUP_SECTION_SIGNIN,Anmeldeinformationen
 AUTH_SIGNUP_COMPANY_NAME_LABEL,Firmenname
 AUTH_SIGNUP_COMPANY_EMAIL_LABEL,Firmen-E-Mail
 AUTH_SIGNUP_FIRST_NAME_LABEL,Vorname
 AUTH_SIGNUP_LAST_NAME_LABEL,Nachname
 AUTH_SIGNUP_PHONE_LABEL,Telefonnummer
-AUTH_SIGNUP_STREET_LABEL,Straßenadresse
-AUTH_SIGNUP_CITY_LABEL,Ort
-AUTH_SIGNUP_STATE_LABEL,Bundesland/Provinz
-AUTH_SIGNUP_STATE_PLACEHOLDER,"Bitte wählen Sie eine Region, ein Bundesland oder eine Provinz."
+AUTH_SIGNUP_STREET_LABEL,Straße und Hausnummer
+AUTH_SIGNUP_CITY_LABEL,Stadt
+AUTH_SIGNUP_STATE_LABEL,Bundesland/Region
+AUTH_SIGNUP_STATE_PLACEHOLDER,Bitte wählen Sie eine Region oder ein Bundesland aus.
 AUTH_SIGNUP_ZIP_LABEL,Postleitzahl
 AUTH_SIGNUP_COUNTRY_LABEL,Land
 AUTH_SIGNUP_COUNTRY_PLACEHOLDER,Land auswählen
@@ -33,78 +31,47 @@ AUTH_SIGNUP_PASSWORD_LABEL,Passwort
 AUTH_SIGNUP_CONFIRM_PASSWORD_LABEL,Passwort bestätigen
 AUTH_SIGNUP_PASSWORD_STRENGTH_LABEL,Passwortstärke:
 AUTH_SIGNUP_BUTTON,Konto erstellen
-
 AUTH_SIGNUP_COUNTRY_PICKER_TITLE,Land auswählen
-AUTH_SIGNUP_STATE_PICKER_TITLE,Bundesland/Provinz auswählen
+AUTH_SIGNUP_STATE_PICKER_TITLE,Bundesland/Region auswählen
 AUTH_SIGNUP_STATE_PICKER_EMPTY,(Keine Optionen für das ausgewählte Land)
-
 AUTH_SIGNUP_VALIDATION_COMPANY_NAME_REQUIRED,Firmenname ist erforderlich.
 AUTH_SIGNUP_VALIDATION_COMPANY_EMAIL_REQUIRED,Firmen-E-Mail ist erforderlich.
-AUTH_SIGNUP_VALIDATION_COMPANY_EMAIL_INVALID,"Bitte geben Sie eine gültige Firmen-E-Mail ein."
+AUTH_SIGNUP_VALIDATION_COMPANY_EMAIL_INVALID,Geben Sie eine gültige Firmen-E-Mail ein.
 AUTH_SIGNUP_VALIDATION_FIRST_NAME_REQUIRED,Vorname ist erforderlich.
 AUTH_SIGNUP_VALIDATION_LAST_NAME_REQUIRED,Nachname ist erforderlich.
 AUTH_SIGNUP_VALIDATION_PHONE_REQUIRED,Telefonnummer ist erforderlich.
-AUTH_SIGNUP_VALIDATION_STREET_REQUIRED,Straßenadresse ist erforderlich.
-AUTH_SIGNUP_VALIDATION_CITY_REQUIRED,Ort ist erforderlich.
+AUTH_SIGNUP_VALIDATION_STREET_REQUIRED,Straße ist erforderlich.
+AUTH_SIGNUP_VALIDATION_CITY_REQUIRED,Stadt ist erforderlich.
 AUTH_SIGNUP_VALIDATION_ZIP_REQUIRED,Postleitzahl ist erforderlich.
 AUTH_SIGNUP_VALIDATION_COUNTRY_REQUIRED,Land ist erforderlich.
 AUTH_SIGNUP_VALIDATION_ACCOUNT_EMAIL_REQUIRED,E-Mail ist erforderlich.
-AUTH_SIGNUP_VALIDATION_ACCOUNT_EMAIL_INVALID,"Bitte geben Sie eine gültige E-Mail ein."
+AUTH_SIGNUP_VALIDATION_ACCOUNT_EMAIL_INVALID,Geben Sie eine gültige E-Mail-Adresse ein.
 AUTH_SIGNUP_VALIDATION_PASSWORD_REQUIRED,Passwort ist erforderlich.
-AUTH_SIGNUP_VALIDATION_PASSWORD_LENGTH,"Verwenden Sie mindestens 8 Zeichen."
-AUTH_SIGNUP_VALIDATION_CONFIRM_PASSWORD_REQUIRED,"Bitte bestätigen Sie Ihr Passwort."
+AUTH_SIGNUP_VALIDATION_PASSWORD_LENGTH,Verwenden Sie mindestens 8 Zeichen.
+AUTH_SIGNUP_VALIDATION_CONFIRM_PASSWORD_REQUIRED,Bitte bestätigen Sie Ihr Passwort.
 AUTH_SIGNUP_VALIDATION_PASSWORDS_DONT_MATCH,Passwörter stimmen nicht überein.
-AUTH_SIGNUP_VALIDATION_MISSING_DATA_TITLE,Fehlende Daten
-AUTH_SIGNUP_VALIDATION_MISSING_DATA_MESSAGE,"Bitte korrigieren Sie die markierten Felder, um fortzufahren."
+AUTH_SIGNUP_VALIDATION_MISSING_DATA_TITLE,Fehlende Angaben
+AUTH_SIGNUP_VALIDATION_MISSING_DATA_MESSAGE,Bitte korrigieren Sie die markierten Felder.
 AUTH_SIGNUP_FEATURE_NOT_READY_TITLE,Funktion
-AUTH_SIGNUP_FEATURE_NOT_READY_MESSAGE,Die Kontoerstellung ist noch nicht angebunden.
-
+AUTH_SIGNUP_FEATURE_NOT_READY_MESSAGE,Die Kontoerstellung ist noch nicht verbunden.
 AUTH_PASSWORD_STRENGTH_NONE,Kein Passwort
 AUTH_PASSWORD_STRENGTH_WEAK,Schwach
 AUTH_PASSWORD_STRENGTH_MEDIUM,Mittel
 AUTH_PASSWORD_STRENGTH_STRONG,Stark
-
-AUTH_COUNTRY_GERMANY,Deutschland
-AUTH_COUNTRY_AUSTRIA,Österreich
-AUTH_COUNTRY_SWITZERLAND,Schweiz
-AUTH_COUNTRY_NETHERLANDS,Niederlande
-AUTH_COUNTRY_BELGIUM,Belgien
-AUTH_COUNTRY_FRANCE,Frankreich
-AUTH_COUNTRY_ITALY,Italien
-AUTH_COUNTRY_SPAIN,Spanien
-AUTH_COUNTRY_UNITED_KINGDOM,Vereinigtes Königreich
-AUTH_COUNTRY_UNITED_STATES,Vereinigte Staaten
-
-AUTH_STATE_BADEN_WUERTTEMBERG,Baden-Württemberg
-AUTH_STATE_BAVARIA,Bayern
-AUTH_STATE_BERLIN,Berlin
-AUTH_STATE_BRANDENBURG,Brandenburg
-AUTH_STATE_BREMEN,Bremen
-AUTH_STATE_HAMBURG,Hamburg
-AUTH_STATE_HESSE,Hessen
-AUTH_STATE_LOWER_SAXONY,Niedersachsen
-AUTH_STATE_MECKLENBURG_VORPOMMERN,Mecklenburg-Vorpommern
-AUTH_STATE_NORTH_RHINE_WESTPHALIA,Nordrhein-Westfalen
-AUTH_STATE_RHINELAND_PALATINATE,Rheinland-Pfalz
-AUTH_STATE_SAARLAND,Saarland
-AUTH_STATE_SAXONY,Sachsen
-AUTH_STATE_SAXONY_ANHALT,Sachsen-Anhalt
-AUTH_STATE_SCHLESWIG_HOLSTEIN,Schleswig-Holstein
-AUTH_STATE_THURINGIA,Thüringen
-AUTH_SIGNIN_TITLE,"Anmelden"
-AUTH_SIGNIN_VALIDATION_EMAIL_PASSWORD,"Bitte geben Sie E-Mail und Passwort ein"
-AUTH_SIGNIN_ERROR_FAILED,"Anmeldung fehlgeschlagen"
-AUTH_SIGNUP_WAITING_APPROVAL_TITLE,Registrierung übermittelt
-AUTH_SIGNUP_WAITING_APPROVAL_MESSAGE,Ihr Konto wartet auf Genehmigung. Sie werden benachrichtigt, sobald es genehmigt wurde
-LOADING,Loading
-TOP_RATED_PRODUCTS,Top-bewertete Produkte
-BACK_IN_STOCK_SUBTITLE,Frische Chargen deiner Favoriten
+AUTH_SIGNIN_TITLE,Anmelden
+AUTH_SIGNIN_VALIDATION_EMAIL_PASSWORD,Bitte geben Sie E-Mail und Passwort ein
+AUTH_SIGNIN_ERROR_FAILED,Anmeldung fehlgeschlagen
+AUTH_SIGNUP_WAITING_APPROVAL_TITLE,Registrierung gesendet
+AUTH_SIGNUP_WAITING_APPROVAL_MESSAGE,Ihr Konto wartet auf Genehmigung. Sie werden benachrichtigt.
+LOADING,Wird geladen
+TOP_RATED_PRODUCTS,Bestbewertete Produkte
+BACK_IN_STOCK_SUBTITLE,Frische Nachlieferungen Ihrer Favoriten
 ADD_TO_CART,In den Warenkorb
 CAT_HEADER_TITLE,Kategorie
-CAT_HEADER_SUBTITLE,Stöbere in kuratierten Kollektionen
-CAT_DISCOVER_ALL,Alles entdecken
+CAT_HEADER_SUBTITLE,Kuratierte Kollektionen entdecken
+CAT_DISCOVER_ALL,Alle entdecken
 CAT_EMPTY_NO_CATEGORIES,Keine Kategorien
-CAT_EMPTY_SELECT_ANOTHER,Wähle eine andere Kategorie.
+CAT_EMPTY_SELECT_ANOTHER,Bitte wählen Sie eine andere Kategorie.
 COMMON_UPDATED_SUCCESS,Erfolgreich aktualisiert
 HOME_GREETING_MORNING,Guten Morgen
 HOME_GREETING_AFTERNOON,Guten Tag
@@ -112,15 +79,15 @@ HOME_GREETING_EVENING,Guten Abend
 HOME_GREETING_FALLBACK_NAME,da
 HOME_ALL,Alle
 HOME_COLLECTION_TITLE,Kollektion 2026
-HOME_COLLECTION_SUBTITLE,Neu definierte Eleganz — kuratierte Farben und perfekte Passformen
+HOME_COLLECTION_SUBTITLE,Neu definierte Eleganz — kuratierte Farben & perfekte Passformen
 HOME_VIEW_COLLECTION,Kollektion ansehen
-HOME_SEARCH_PLACEHOLDER,Nach Produkten suchen
+HOME_SEARCH_PLACEHOLDER,Produkte suchen
 HOME_PLEASE_WAIT,Bitte warten.
 HOME_VIEW_ALL,Alle anzeigen
 HOME_QUICK_VIEW,Schnellansicht
 HOME_ADD_MORE,Mehr hinzufügen
-HOME_ADD_TO_BAG,In den Warenkorb
-HOME_NEW_ARRIVALS,Neu eingetroffen
+HOME_ADD_TO_BAG,In die Tasche
+HOME_NEW_ARRIVALS,Neuheiten
 HOME_BEST_SELLERS,Bestseller
 HOME_BACK_IN_STOCK,Wieder auf Lager
 HOME_CATEGORIES,Kategorien
@@ -132,7 +99,7 @@ FOOTER_ORDERS,Bestellungen
 FOOTER_CART,Warenkorb
 FOOTER_PROFILE,Profil
 LANGUAGE_TITLE,Sprache auswählen
-LANGUAGE_SUBTITLE,Die App-Oberfläche wird in dieser Sprache angezeigt.
+LANGUAGE_SUBTITLE,Die Oberflächensprache wird in der gesamten App angewendet.
 LANGUAGE_CURRENT,Aktuell
 LANGUAGE_DEFAULT,Standard
 ALERT_LOGIN_REQUIRED_TITLE,Anmeldung erforderlich
@@ -143,18 +110,16 @@ ALERT_CART_ERROR_TITLE,Warenkorbfehler
 ALERT_CART_ERROR_MESSAGE,Warenkorb konnte nicht erstellt oder geladen werden. Bitte versuchen Sie es erneut.
 ALERT_SUCCESSFULLY_ADDED,Erfolgreich hinzugefügt
 ALERT_SUCCESS_TITLE,Erfolg
-ALERT_PRODUCT_ADDED_TO_CART,Produkt wurde zum Warenkorb hinzugefügt
+ALERT_PRODUCT_ADDED_TO_CART,Produkt zum Warenkorb hinzugefügt
 ALERT_ERROR_TITLE,Fehler
 ALERT_FAILED_ADD_TO_CART,Produkt konnte nicht zum Warenkorb hinzugefügt werden
 ALERT_CUSTOMER_ID_NOT_FOUND,Kunden-ID nicht gefunden. Bitte melden Sie sich erneut an.
 ALERT_FAILED_LOAD_PRODUCT_DETAILS,Produktdetails konnten nicht geladen werden
 ALERT_SELECT_SIZE_TITLE,Größe auswählen
-ALERT_SELECT_SIZE_MESSAGE,Bitte wählen Sie mindestens eine Größe aus, um den Artikel in den Warenkorb zu legen.
+ALERT_SELECT_SIZE_MESSAGE,Bitte wählen Sie mindestens eine Größe aus.
 ALERT_FAILED_UPDATE_QUANTITY,Menge konnte nicht aktualisiert werden
-TOP_RATED_PRODUCTS,Top-bewertete Produkte
-BACK_IN_STOCK_SUBTITLE,Frische Nachlieferungen Ihrer Favoriten
 SEARCH_TITLE,Suche
-SEARCH_PLACEHOLDER,Nach Produkten, Stilen oder Codes suchen
+SEARCH_PLACEHOLDER,Produkte, Stile oder Codes suchen
 SEARCH_RESULT_SINGLE_FOUND,Ergebnis gefunden
 SEARCH_RESULT_MULTI_FOUND,Ergebnisse gefunden
 SEARCH_SKU_PREFIX,SKU
@@ -167,13 +132,13 @@ SEARCH_EXPLORE_NOW,Jetzt entdecken
 SEARCH_COLLECTION,Kollektion
 PLP_CATEGORY_FALLBACK,Kategorie
 PLP_CATEGORY_NOT_FOUND_TITLE,Kategorie nicht gefunden
-PLP_CATEGORY_NOT_FOUND_TEXT,Bitte gehen Sie zurück und wählen Sie eine gültige Kategorie aus.
-PLP_GO_BACK,Zurück
+PLP_CATEGORY_NOT_FOUND_TEXT,Bitte gehen Sie zurück und wählen Sie eine gültige Kategorie.
+PLP_GO_BACK,ZURÜCK
 PLP_NO_PRODUCTS_TITLE,Keine Produkte gefunden
-PLP_NO_PRODUCTS_IN_CATEGORY_TEXT,In dieser Kategorie sind keine Produkte verfügbar. Wählen Sie eine andere Kategorie oder passen Sie Ihre Filter an.
+PLP_NO_PRODUCTS_IN_CATEGORY_TEXT,In dieser Kategorie sind keine Produkte verfügbar.
 PLP_NO_PRODUCTS_IN_SELECTED_PREFIX,Keine Produkte verfügbar in
 PLP_NO_PRODUCTS_IN_SELECTED_SUFFIX,Kategorie.
-PLP_NO_PRODUCTS_IN_CATEGORY_SIMPLE,In dieser Kategorie sind keine Produkte verfügbar.
+PLP_NO_PRODUCTS_IN_CATEGORY_SIMPLE,Keine Produkte in dieser Kategorie verfügbar.
 PLP_SHOW_ALL_PRODUCTS,Alle Produkte anzeigen
 PLP_LOADING_MORE_PRODUCTS,Weitere Produkte werden geladen...
 PLP_FILTERS_SORT_TITLE,Filter & Sortierung
@@ -189,32 +154,32 @@ PLP_APPLY_FILTERS,Filter anwenden
 PDP_PRODUCT_FALLBACK,Produkt
 PDP_REVIEW_LOGIN_REQUIRED,Bitte melden Sie sich an, um eine Bewertung abzugeben.
 PDP_ERROR_SKU_NOT_FOUND,Produkt-SKU nicht gefunden.
-PDP_REVIEW_REQUIRED_FIELDS_TITLE,Pflichtfelder
-PDP_REVIEW_REQUIRED_FIELDS_TEXT,Bitte füllen Sie Nickname, Zusammenfassung, Bewertungstext und Sternebewertung aus.
-PDP_REVIEW_SUBMIT_FAILED,Bewertung konnte nicht gesendet werden. Bitte versuchen Sie es erneut.
+PDP_REVIEW_REQUIRED_FIELDS_TITLE,Erforderliche Felder
+PDP_REVIEW_REQUIRED_FIELDS_TEXT,Bitte füllen Sie Nickname, Zusammenfassung, Bewertungstext und Bewertung aus.
+PDP_REVIEW_SUBMIT_FAILED,Bewertung konnte nicht gesendet werden.
 PDP_REVIEW_SUBMITTED,Bewertung gesendet
 PDP_SHARE_TITLE,Produktdetails
-PDP_SHARE_MESSAGE_PREFIX,Schau dir dieses tolle Produkt an:
-PDP_TOAST_ADDED_TO_CART,Produkt wurde erfolgreich in den Warenkorb gelegt
-PDP_ADD_TO_CART_FAILED,Dieses Produkt konnte nicht in den Warenkorb gelegt werden. Bitte versuchen Sie es erneut.
-PDP_WISHLIST_LOGIN_REQUIRED,Bitte melden Sie sich an, um die Wunschliste zu nutzen
-PDP_WISHLIST_AUTH_ERROR,Authentifizierungsdaten konnten nicht geladen werden
-PDP_WISHLIST_ID_ERROR,Wunschlisten-ID konnte nicht geladen werden
+PDP_SHARE_MESSAGE_PREFIX,Sehen Sie sich dieses großartige Produkt an:
+PDP_TOAST_ADDED_TO_CART,Produkt erfolgreich zum Warenkorb hinzugefügt
+PDP_ADD_TO_CART_FAILED,Artikel konnte nicht in den Warenkorb gelegt werden.
+PDP_WISHLIST_LOGIN_REQUIRED,Bitte anmelden, um die Wunschliste zu nutzen
+PDP_WISHLIST_AUTH_ERROR,Authentifizierungsdaten konnten nicht abgerufen werden
+PDP_WISHLIST_ID_ERROR,Wunschlisten-ID konnte nicht abgerufen werden
 PDP_WISHLIST_ADDED,Zur Wunschliste hinzugefügt
-PDP_WISHLIST_REMOVED,Von der Wunschliste entfernt
+PDP_WISHLIST_REMOVED,Von Wunschliste entfernt
 PDP_WISHLIST_UPDATE_FAILED,Wunschliste konnte nicht aktualisiert werden
 PDP_AVAILABILITY_AVAILABLE,Verfügbar
 PDP_AVAILABILITY_SEMI,Teilweise verfügbar
 PDP_AVAILABILITY_UNAVAILABLE,Nicht verfügbar
-PDP_BUY_PREFIX,Kaufe
+PDP_BUY_PREFIX,Kaufen
 PDP_FOR_PREFIX,für
-PDP_EACH_SUFFIX,pro Stück
-PDP_AND_SAVE_PREFIX,und spare
-PDP_TIER_NOTE,Hinweis: Der obige Rabatt gilt nur für gleiche Farbe und Größe
+PDP_EACH_SUFFIX,je Stück
+PDP_AND_SAVE_PREFIX,und sparen Sie
+PDP_TIER_NOTE,Hinweis: Rabatt gilt nur für gleiche Farbe und Größe
 PDP_COLOR_LABEL,Farbe:
 PDP_ADD_REVIEW,Bewertung hinzufügen
-PDP_ADD_TO_BAG,In den Warenkorb
-PDP_CHOOSE_SIZE,Größe wählen
+PDP_ADD_TO_BAG,In die Tasche
+PDP_CHOOSE_SIZE,Größe auswählen
 PDP_SIZE_LABEL,Größe
 PDP_QTY_LABEL,Menge
 PDP_SIZES_SELECTED_SUFFIX,Größen ausgewählt
@@ -227,23 +192,23 @@ PDP_RELATED_PRODUCTS_TITLE,Ähnliche Produkte
 PDP_CUSTOM_OPTIONS_TITLE,Individuelle Optionen
 PDP_VIEWER_PREV,Zurück
 PDP_VIEWER_NEXT,Weiter
-PDP_WRITE_REVIEW_TITLE,Schreiben Sie Ihre Bewertung
+PDP_WRITE_REVIEW_TITLE,Eigene Bewertung schreiben
 PDP_YOURE_REVIEWING_PREFIX,Sie bewerten:
 PDP_YOUR_RATING,Ihre Bewertung:
-PDP_REVIEW_NICKNAME_PLACEHOLDER,Nickname*
+PDP_REVIEW_NICKNAME_PLACEHOLDER,Spitzname*
 PDP_REVIEW_SUMMARY_PLACEHOLDER,Zusammenfassung*
 PDP_REVIEW_TEXT_PLACEHOLDER,Bewertung*
 PDP_CANCEL,Abbrechen
 PDP_SUBMIT_REVIEW,Bewertung absenden
 PDP_SELECT_SIZE,Größe auswählen
-PDP_VIEW_CART,Warenkorb anzeigen
+PDP_VIEW_CART,Warenkorb ansehen
 CART_TITLE,Warenkorb
 CART_ITEM,Artikel
 CART_ITEMS,Artikel
-CART_A11Y_GO_HOME,Zur Startseite
+CART_A11Y_GO_HOME,Zur Startseite gehen
 CART_A11Y_SEARCH_PRODUCTS,Produkte suchen
 CART_EMPTY_TITLE,Ihre Tasche ist leer
-CART_EMPTY_SUBTITLE,Entdecken Sie unsere Neuheiten und kuratierten Kollektionen für Ihr nächstes Lieblingsstück.
+CART_EMPTY_SUBTITLE,Entdecken Sie unsere neuesten Kollektionen und Neuheiten.
 CART_START_SHOPPING,Einkauf starten
 CART_COLOR_LABEL,Farbe
 CART_SIZE_LABEL,Größe
@@ -251,74 +216,74 @@ CART_IMAGE_PLACEHOLDER,BILD
 CART_TOAST_QTY_UPDATED,Menge erfolgreich aktualisiert
 CART_REMOVE_ITEM_TITLE,Artikel entfernen
 CART_REMOVE_ITEM_CONFIRM_PREFIX,Möchten Sie
-CART_REMOVE_ITEM_CONFIRM_SUFFIX,wirklich aus dem Warenkorb entfernen?
+CART_REMOVE_ITEM_CONFIRM_SUFFIX,aus dem Warenkorb entfernen?
 CART_CANCEL,Abbrechen
 CART_REMOVE,Entfernen
-CART_COUPON_INVALID,Der Gutscheincode ist ungültig. Bitte versuchen Sie es erneut.
-CART_REMOVE_COUPON_FAILED,Gutschein konnte nicht entfernt werden. Bitte versuchen Sie es erneut.
+CART_COUPON_INVALID,Gutscheincode ist ungültig.
+CART_REMOVE_COUPON_FAILED,Gutschein konnte nicht entfernt werden.
 CART_PROMO_CODE,Gutscheincode
-CART_PROMO_HELPER,Fügen Sie einen Code für zusätzliche Ersparnis hinzu.
+CART_PROMO_HELPER,Code für zusätzliche Ersparnisse eingeben.
 CART_PROMO_PLACEHOLDER,Code eingeben
 CART_APPLY,Anwenden
 CART_COUPON_APPLIED,Gutschein angewendet
-CART_DISCOUNT_APPLIED,Rabatt wurde auf Ihre Bestellung angewendet
+CART_DISCOUNT_APPLIED,Rabatt wurde angewendet
 CART_SUMMARY,Übersicht
 CART_SUBTOTAL,Zwischensumme
 CART_SHIPPING,Versand
 CART_DISCOUNT,Rabatt
-CART_TOTAL,Gesamt
+CART_TOTAL,Gesamtbetrag
 CART_CHECKOUT,Zur Kasse
-CART_FOOTER_HINT,Sicherer Checkout · Versand und Steuern im nächsten Schritt prüfen
+CART_FOOTER_HINT,Sicherer Checkout · Versand & Steuern als Nächstes prüfen
 CHECKOUT_PLACE_ORDER,Bestellung aufgeben
 CHECKOUT_TEL_PREFIX,Tel
-CHECKOUT_NO_ADDRESS,Keine Versandadressen verfügbar. Bitte fügen Sie in Ihrem Profil eine Adresse hinzu.
+CHECKOUT_NO_ADDRESS,Keine Lieferadresse vorhanden. Bitte fügen Sie eine Adresse hinzu.
 CHECKOUT_SHIPPING_METHOD,Versandart
 CHECKOUT_LOADING_SHIPPING_METHODS,Versandarten werden geladen...
-CHECKOUT_SELECT_ADDRESS_FOR_SHIPPING,Bitte wählen Sie eine Versandadresse, um verfügbare Versandarten zu sehen.
-CHECKOUT_PAYMENT_METHOD,Zahlungsart
-CHECKOUT_LOADING_PAYMENT_METHODS,Zahlungsarten werden geladen...
-CHECKOUT_NO_PAYMENT_METHODS,Keine Zahlungsarten verfügbar.
+CHECKOUT_SELECT_ADDRESS_FOR_SHIPPING,Bitte wählen Sie eine Lieferadresse aus.
+CHECKOUT_PAYMENT_METHOD,Zahlungsmethode
+CHECKOUT_LOADING_PAYMENT_METHODS,Zahlungsmethoden werden geladen...
+CHECKOUT_NO_PAYMENT_METHODS,Keine Zahlungsmethoden verfügbar.
 CHECKOUT_ORDER_SUMMARY,Bestellübersicht
 CHECKOUT_SUBTOTAL,Zwischensumme
 CHECKOUT_SHIPPING,Versand
 CHECKOUT_DISCOUNT,Rabatt
-CHECKOUT_TOTAL,Gesamt
+CHECKOUT_TOTAL,Gesamtbetrag
 CHECKOUT_ACCEPT_TERMS,Ich akzeptiere die Allgemeinen Geschäftsbedingungen
 CHECKOUT_ADD_NOTE,Notiz hinzufügen
 CHECKOUT_TERMS_CONDITIONS,Allgemeine Geschäftsbedingungen
 CHECKOUT_PAYPAL_CHECKOUT,PayPal Checkout
 CHECKOUT_ORDER_PLACED_SUCCESS,Bestellung erfolgreich aufgegeben!
 CHECKOUT_PAYMENT_CANCELLED_TITLE,Zahlung abgebrochen
-CHECKOUT_PAYPAL_CANCELLED,Die PayPal-Zahlung wurde abgebrochen.
+CHECKOUT_PAYPAL_CANCELLED,PayPal-Zahlung wurde abgebrochen.
 CHECKOUT_PAYPAL_COMPLETE_FAILED,PayPal-Zahlung konnte nicht abgeschlossen werden.
-CHECKOUT_ADDRESS_TERMS_REQUIRED,Bitte wählen Sie eine Adresse und akzeptieren Sie die Bedingungen.
-CHECKOUT_PAYMENT_REQUIRED,Bitte wählen Sie eine Zahlungsart.
-CHECKOUT_CUSTOMER_INFO_FAILED,Kundeninformationen konnten nicht geladen werden.
-CHECKOUT_CART_INFO_FAILED,Warenkorbinformationen konnten nicht geladen werden.
+CHECKOUT_ADDRESS_TERMS_REQUIRED,Adresse auswählen und Bedingungen akzeptieren
+CHECKOUT_PAYMENT_REQUIRED,Bitte wählen Sie eine Zahlungsmethode
+CHECKOUT_CUSTOMER_INFO_FAILED,Kundendaten konnten nicht geladen werden
+CHECKOUT_CART_INFO_FAILED,Warenkorbdaten konnten nicht geladen werden
 CHECKOUT_ADMIN_TOKEN_MISSING,Admin-Token fehlt. Bitte erneut anmelden.
-CHECKOUT_PAYPAL_PENDING_ORDER_FAILED,Ausstehende Bestellung für PayPal-Checkout konnte nicht erstellt werden.
-CHECKOUT_PAYPAL_CREDENTIALS_MISSING,PayPal-Einstellungen enthalten keine Client-Zugangsdaten.
-CHECKOUT_PAYPAL_ACCESS_TOKEN_FAILED,PayPal-Access-Token konnte nicht abgerufen werden.
-CHECKOUT_PAYPAL_ORDER_CREATE_FAILED,PayPal-Checkout-Bestellung konnte nicht erstellt werden.
-CHECKOUT_PAYPAL_APPROVAL_LINK_MISSING,PayPal-Freigabelink wurde nicht zurückgegeben.
-CHECKOUT_ORDER_NUMBER_FAILED,Bestellnummer konnte nicht ermittelt werden.
-CHECKOUT_PLACE_ORDER_FAILED,Bestellung konnte nicht aufgegeben werden. Bitte versuchen Sie es erneut.
-PROFILE_ACCOUNT_UPDATED,Kontodaten erfolgreich aktualisiert
+CHECKOUT_PAYPAL_PENDING_ORDER_FAILED,PayPal-Bestellung konnte nicht erstellt werden
+CHECKOUT_PAYPAL_CREDENTIALS_MISSING,PayPal-Zugangsdaten fehlen
+CHECKOUT_PAYPAL_ACCESS_TOKEN_FAILED,PayPal-Zugriffstoken konnte nicht abgerufen werden
+CHECKOUT_PAYPAL_ORDER_CREATE_FAILED,PayPal-Bestellung konnte nicht erstellt werden
+CHECKOUT_PAYPAL_APPROVAL_LINK_MISSING,PayPal-Genehmigungslink fehlt
+CHECKOUT_ORDER_NUMBER_FAILED,Bestellnummer konnte nicht abgerufen werden
+CHECKOUT_PLACE_ORDER_FAILED,Bestellung fehlgeschlagen. Bitte erneut versuchen.
+PROFILE_ACCOUNT_UPDATED,Konto erfolgreich aktualisiert
 PROFILE_ADDRESSES,Adressen
-PROFILE_AUTH_DETAILS_FAILED,Authentifizierungsdaten konnten nicht geladen werden
+PROFILE_AUTH_DETAILS_FAILED,Authentifizierungsdetails konnten nicht geladen werden
 PROFILE_CANCEL,Abbrechen
 PROFILE_CHANGE_PASSWORD,Passwort ändern
 PROFILE_EMAIL,E-Mail
-PROFILE_EMAIL_FALLBACK,user@company.com
+PROFILE_EMAIL_FALLBACK,user@firma.com
 PROFILE_EMAIL_PLACEHOLDER,E-Mail eingeben
 PROFILE_FIRST_NAME,Vorname
-PROFILE_FIRST_NAME_PLACEHOLDER,Vorname eingeben
+PROFILE_FIRST_NAME_PLACEHOLDER,Vornamen eingeben
 PROFILE_INVALID_EMAIL,Bitte geben Sie eine gültige E-Mail-Adresse ein
 PROFILE_LAST_NAME,Nachname
-PROFILE_LAST_NAME_PLACEHOLDER,Nachname eingeben
+PROFILE_LAST_NAME_PLACEHOLDER,Nachnamen eingeben
 PROFILE_MENU,Menü
-PROFILE_MY_ADDRESS_LIST,Meine Adressliste
-PROFILE_MY_ORDERS_LIST,Meine Bestellliste
+PROFILE_MY_ADDRESS_LIST,Meine Adressen
+PROFILE_MY_ORDERS_LIST,Meine Bestellungen
 PROFILE_MY_WISHLIST,Meine Wunschliste
 PROFILE_ORDERS,Bestellungen
 PROFILE_REQUIRED_FIELDS,Bitte füllen Sie alle Pflichtfelder aus
@@ -332,8 +297,8 @@ PROFILE_SUCCESS_TITLE,Erfolg
 PROFILE_TITLE,Profil
 PROFILE_UPDATE,Aktualisieren
 PROFILE_UPDATE_ACCOUNT,Konto aktualisieren
-PROFILE_UPDATE_CUSTOMER_ACCOUNT,Kundenkonto aktualisieren
-PROFILE_UPDATE_FAILED,Konto konnte nicht aktualisiert werden. Bitte versuchen Sie es erneut.
+PROFILE_UPDATE_CUSTOMER_ACCOUNT,Konto aktualisieren
+PROFILE_UPDATE_FAILED,Konto konnte nicht aktualisiert werden
 PROFILE_USER_FALLBACK,Benutzer
 WISHLIST_TITLE,Meine Wunschliste
 WISHLIST_LOADING,Wunschliste wird geladen...
@@ -341,23 +306,23 @@ WISHLIST_LOAD_FAILED,Wunschliste konnte nicht geladen werden
 WISHLIST_ITEM,Artikel
 WISHLIST_ITEMS,Artikel
 WISHLIST_EMPTY_TITLE,Ihre Wunschliste ist leer
-WISHLIST_EMPTY_TEXT,Speichern Sie Ihre Favoriten, um sie hier zu sehen
-WISHLIST_BROWSE_PRODUCTS,Produkte durchsuchen
-WISHLIST_REMOVE_TITLE,Aus Wunschliste entfernen
-WISHLIST_REMOVE_CONFIRM_PREFIX,Entfernen Sie
+WISHLIST_EMPTY_TEXT,Speichern Sie Ihre Favoriten hier
+WISHLIST_BROWSE_PRODUCTS,Produkte entdecken
+WISHLIST_REMOVE_TITLE,Von Wunschliste entfernen
+WISHLIST_REMOVE_CONFIRM_PREFIX,Entfernen
 WISHLIST_REMOVE_CONFIRM_SUFFIX,aus Ihrer Wunschliste?
 WISHLIST_CANCEL,Abbrechen
 WISHLIST_REMOVE,Entfernen
-WISHLIST_REMOVE_UNAVAILABLE,Artikel kann nicht entfernt werden
-WISHLIST_REMOVE_FAILED,Artikel konnte nicht aus der Wunschliste entfernt werden
-WISHLIST_LOGIN_REQUIRED,Bitte melden Sie sich an, um Artikel in den Warenkorb zu legen
-WISHLIST_AUTH_FAILED,Authentifizierungsdaten konnten nicht geladen werden
+WISHLIST_REMOVE_UNAVAILABLE,Artikel konnte nicht entfernt werden
+WISHLIST_REMOVE_FAILED,Artikel konnte nicht entfernt werden
+WISHLIST_LOGIN_REQUIRED,Bitte anmelden, um Artikel in den Warenkorb zu legen
+WISHLIST_AUTH_FAILED,Authentifizierungsdetails konnten nicht geladen werden
 WISHLIST_PRODUCT_DETAILS_FAILED,Produktdetails konnten nicht geladen werden
 WISHLIST_CREATE_CART_FAILED,Warenkorb konnte nicht erstellt werden
-WISHLIST_ADDED_TO_CART,Produkt wurde dem Warenkorb hinzugefuegt
-WISHLIST_ADD_TO_CART_FAILED,Artikel konnte nicht in den Warenkorb gelegt werden. Bitte versuchen Sie es erneut.
-WISHLIST_ADD_PRODUCT_FAILED,Produkt konnte nicht in den Warenkorb gelegt werden
-WISHLIST_SELECT_SIZE,Bitte waehlen Sie mindestens eine Groesse
+WISHLIST_ADDED_TO_CART,Produkt erfolgreich zum Warenkorb hinzugefügt
+WISHLIST_ADD_TO_CART_FAILED,Artikel konnte nicht hinzugefügt werden
+WISHLIST_ADD_PRODUCT_FAILED,Produkt konnte nicht hinzugefügt werden
+WISHLIST_SELECT_SIZE,Bitte wählen Sie mindestens eine Größe aus
 WISHLIST_VIEW_CART,Warenkorb ansehen
 ORDERS_TITLE,Bestellungen
 ORDERS_FILTER_ALL,Alle
@@ -366,9 +331,9 @@ ORDERS_FILTER_PROCESSING,In Bearbeitung
 ORDERS_FILTER_DELIVERED,Geliefert
 ORDERS_FILTER_CANCELED,Storniert
 ORDERS_LOADING,Bestellungen werden geladen...
-ORDERS_EMPTY_TITLE,Keine Bestellungen
-ORDERS_EMPTY_ALL,Starten Sie den Einkauf, um hier Bestellungen zu sehen
-ORDERS_EMPTY_FILTER,Versuchen Sie einen anderen Statusfilter oder starten Sie den Einkauf
+ORDERS_EMPTY_TITLE,Keine Bestellungen vorhanden
+ORDERS_EMPTY_ALL,Starten Sie Ihren Einkauf, um Bestellungen zu sehen
+ORDERS_EMPTY_FILTER,Anderen Status auswählen oder einkaufen
 ORDERS_GO_HOME,Zur Startseite
 ORDERS_TOTAL,Gesamt
 ORDERS_LOADING_MORE,Weitere Bestellungen werden geladen...
@@ -385,109 +350,118 @@ ADDRESS_TITLE,Adressen
 ADDRESS_SINGULAR,Adresse
 ADDRESS_PLURAL,Adressen
 ADDRESS_EMPTY_TITLE,Noch keine Adressen
-ADDRESS_EMPTY_TEXT,Fuegen Sie Ihre erste Adresse hinzu
+ADDRESS_EMPTY_TEXT,Fügen Sie Ihre erste Adresse hinzu
 ADDRESS_EDIT,Bearbeiten
-ADDRESS_DELETE,Loeschen
-ADDRESS_ADD_NEW,Neue Adresse hinzufuegen
-ADDRESS_DEFAULT_SHIPPING,Standardversand
-ADDRESS_DEFAULT_BILLING,Standardrechnung
-ADDRESS_CANNOT_DELETE,Loeschen nicht moeglich
-ADDRESS_CANNOT_DELETE_DEFAULT,Sie koennen eine Standardadresse nicht loeschen. Setzen Sie zuerst eine andere Adresse als Standard.
+ADDRESS_DELETE,Löschen
+ADDRESS_ADD_NEW,Neue Adresse hinzufügen
+ADDRESS_DEFAULT_SHIPPING,Standard-Lieferadresse
+ADDRESS_DEFAULT_BILLING,Standard-Rechnungsadresse
+ADDRESS_CANNOT_DELETE,Nicht löschbar
+ADDRESS_CANNOT_DELETE_DEFAULT,Standardadresse kann nicht gelöscht werden
 ADDRESS_OK,OK
-ADDRESS_DELETE_TITLE,Adresse loeschen
-ADDRESS_DELETE_CONFIRM,Moechten Sie diese Adresse wirklich loeschen?
+ADDRESS_DELETE_TITLE,Adresse löschen
+ADDRESS_DELETE_CONFIRM,Möchten Sie diese Adresse wirklich löschen?
 ADDRESS_CANCEL,Abbrechen
-ADDRESS_SIGNIN_AGAIN,Bitte melden Sie sich erneut an
+ADDRESS_SIGNIN_AGAIN,Bitte erneut anmelden
 ADDRESS_SUCCESS,Erfolg
-ADDRESS_DELETED_SUCCESS,Adresse erfolgreich geloescht
-ADDRESS_DELETE_FAILED,Adresse konnte nicht geloescht werden
-CHANGE_PASSWORD_TITLE,Passwort aendern
-CHANGE_PASSWORD_SUBTITLE,Aktualisieren Sie Ihr Kontopasswort
+ADDRESS_DELETED_SUCCESS,Adresse erfolgreich gelöscht
+ADDRESS_DELETE_FAILED,Adresse konnte nicht gelöscht werden
+CHANGE_PASSWORD_TITLE,Passwort ändern
+CHANGE_PASSWORD_SUBTITLE,Konto-Passwort aktualisieren
 CHANGE_PASSWORD_CURRENT_LABEL,Aktuelles Passwort
 CHANGE_PASSWORD_CURRENT_PLACEHOLDER,Aktuelles Passwort eingeben
 CHANGE_PASSWORD_NEW_LABEL,Neues Passwort
 CHANGE_PASSWORD_NEW_PLACEHOLDER,Neues Passwort eingeben
-CHANGE_PASSWORD_CONFIRM_LABEL,Passwort bestaetigen
-CHANGE_PASSWORD_CONFIRM_PLACEHOLDER,Neues Passwort bestaetigen
-CHANGE_PASSWORD_HINT,Das Passwort muss laenger als 8 Zeichen sein und Buchstaben Zahlen einen Grossbuchstaben und ein Sonderzeichen enthalten.
+CHANGE_PASSWORD_CONFIRM_LABEL,Passwort bestätigen
+CHANGE_PASSWORD_CONFIRM_PLACEHOLDER,Neues Passwort bestätigen
+CHANGE_PASSWORD_HINT,Das Passwort muss mehr als 8 Zeichen enthalten
 CHANGE_PASSWORD_UPDATE_BUTTON,Passwort aktualisieren
-CHANGE_PASSWORD_CURRENT_REQUIRED,Bitte aktuelles Passwort eingeben
-CHANGE_PASSWORD_NEW_REQUIRED,Bitte neues Passwort eingeben
-CHANGE_PASSWORD_CONFIRM_REQUIRED,Bitte neues Passwort bestaetigen
-CHANGE_PASSWORD_MISMATCH,Neues Passwort und Passwortbestaetigung stimmen nicht ueberein
-CHANGE_PASSWORD_RULE_LENGTH,Neues Passwort muss laenger als 8 Zeichen sein
-CHANGE_PASSWORD_RULE_ALNUM,Neues Passwort muss alphanumerisch sein Buchstaben und Zahlen
-CHANGE_PASSWORD_RULE_UPPER,Neues Passwort muss mindestens einen Grossbuchstaben enthalten
-CHANGE_PASSWORD_RULE_SPECIAL,Neues Passwort muss mindestens ein Sonderzeichen enthalten
-CHANGE_PASSWORD_TOKEN_FAILED,Kunden-Token konnte nicht geladen werden
+CHANGE_PASSWORD_CURRENT_REQUIRED,Aktuelles Passwort erforderlich
+CHANGE_PASSWORD_NEW_REQUIRED,Neues Passwort erforderlich
+CHANGE_PASSWORD_CONFIRM_REQUIRED,Passwort bestätigen
+CHANGE_PASSWORD_MISMATCH,Passwörter stimmen nicht überein
+CHANGE_PASSWORD_RULE_LENGTH,Passwort muss mehr als 8 Zeichen haben
+CHANGE_PASSWORD_RULE_ALNUM,Passwort muss Buchstaben und Zahlen enthalten
+CHANGE_PASSWORD_RULE_UPPER,Passwort muss einen Großbuchstaben enthalten
+CHANGE_PASSWORD_RULE_SPECIAL,Passwort muss ein Sonderzeichen enthalten
+CHANGE_PASSWORD_TOKEN_FAILED,Kundentoken konnte nicht geladen werden
 CHANGE_PASSWORD_STORE_FAILED,Store-Code konnte nicht geladen werden
 CHANGE_PASSWORD_SUCCESS_TITLE,Erfolg
-CHANGE_PASSWORD_SUCCESS,Passwort erfolgreich geaendert
+CHANGE_PASSWORD_SUCCESS,Passwort erfolgreich geändert
 CHANGE_PASSWORD_OK,OK
-CHANGE_PASSWORD_FAILED,Passwort konnte nicht geaendert werden. Bitte versuchen Sie es erneut.
+CHANGE_PASSWORD_FAILED,Passwort konnte nicht geändert werden
+
+USERS_VALIDATION_TITLE,Validierung
+USERS_REQUIRED_FIELDS,Vorname, Nachname und E-Mail sind erforderlich.
+USERS_INVALID_EMAIL,Bitte geben Sie eine gültige E-Mail-Adresse ein.
+USERS_INVALID_ROLE,Bitte wählen Sie eine gültige Rolle.
+
+USERS_SIGNIN_AGAIN,Bitte melden Sie sich erneut an.
+
 FORGOT_PASSWORD_TITLE,Passwort vergessen
-FORGOT_PASSWORD_SUBTITLE,Wir senden einen Reset-Link an Ihre E-Mail
+FORGOT_PASSWORD_SUBTITLE,Wir senden Ihnen einen Zurücksetzungslink per E-Mail
 FORGOT_PASSWORD_EMAIL,E-Mail
 FORGOT_PASSWORD_EMAIL_PLACEHOLDER,E-Mail eingeben
-FORGOT_PASSWORD_SEND_LINK,Reset-Link senden
-FORGOT_PASSWORD_INVALID_EMAIL,Bitte geben Sie eine gueltige E-Mail-Adresse ein
-FORGOT_PASSWORD_SEND_FAILED,Reset-E-Mail konnte nicht gesendet werden. Bitte versuchen Sie es erneut.
-FORGOT_PASSWORD_SUCCESS_TITLE,Posteingang pruefen
-FORGOT_PASSWORD_SUCCESS_TEXT_PREFIX,Wenn ein Konto existiert fuer
-FORGOT_PASSWORD_SUCCESS_TEXT_SUFFIX,erhalten Sie in Kuerze eine E-Mail zum Zuruecksetzen des Passworts.
-FORGOT_PASSWORD_BACK_TO_SIGNIN,Zurueck zur Anmeldung
+FORGOT_PASSWORD_SEND_LINK,Zurücksetzungslink senden
+FORGOT_PASSWORD_INVALID_EMAIL,Bitte geben Sie eine gültige E-Mail-Adresse ein
+FORGOT_PASSWORD_SEND_FAILED,E-Mail zum Zurücksetzen konnte nicht gesendet werden. Bitte versuchen Sie es erneut.
+FORGOT_PASSWORD_SUCCESS_TITLE,Posteingang prüfen
+FORGOT_PASSWORD_SUCCESS_TEXT_PREFIX,Wenn ein Konto existiert für
+FORGOT_PASSWORD_SUCCESS_TEXT_SUFFIX,erhalten Sie in Kürze eine E-Mail zum Zurücksetzen des Passworts.
+FORGOT_PASSWORD_BACK_TO_SIGNIN,Zurück zur Anmeldung
+
 ADDRESS_EDIT_TITLE,Adresse bearbeiten
-ADDRESS_ADD_TITLE,Neue Adresse hinzufuegen
-ADDRESS_PERSONAL_INFO,Persoenliche Informationen
+ADDRESS_ADD_TITLE,Neue Adresse hinzufügen
+ADDRESS_PERSONAL_INFO,Persönliche Informationen
 ADDRESS_FIRST_NAME,Vorname
 ADDRESS_LAST_NAME,Nachname
 ADDRESS_PHONE,Telefonnummer
 ADDRESS_COMPANY,Firma
 ADDRESS_INFO,Adressinformationen
-ADDRESS_STREET,Strasse und Hausnummer
+ADDRESS_STREET,Straße und Hausnummer
 ADDRESS_CITY,Stadt
 ADDRESS_POSTAL_CODE,Postleitzahl
 ADDRESS_COUNTRY,Land
 ADDRESS_STATE_REGION,Bundesland/Region
-ADDRESS_SELECT_COUNTRY,Land waehlen
-ADDRESS_SELECT_STATE_REGION,Bundesland/Region waehlen
-ADDRESS_SELECT_COUNTRY_PLACEHOLDER,Land waehlen
-ADDRESS_SELECT_REGION_PLACEHOLDER,Region waehlen
-ADDRESS_LOADING,Laden...
-ADDRESS_NO_REGIONS,Keine Regionen verfuegbar
-ADDRESS_DEFAULT_SHIPPING_LABEL,Standard-Versandadresse
-ADDRESS_DEFAULT_SHIPPING_DESC,Als primaere Versandadresse verwenden
+ADDRESS_SELECT_COUNTRY,Land auswählen
+ADDRESS_SELECT_STATE_REGION,Bundesland/Region auswählen
+ADDRESS_SELECT_COUNTRY_PLACEHOLDER,Land auswählen
+ADDRESS_SELECT_REGION_PLACEHOLDER,Region auswählen
+ADDRESS_LOADING,Wird geladen...
+ADDRESS_NO_REGIONS,Keine Regionen verfügbar
+ADDRESS_DEFAULT_SHIPPING_LABEL,Standard-Lieferadresse
+ADDRESS_DEFAULT_SHIPPING_DESC,Als primäre Lieferadresse verwenden
 ADDRESS_DEFAULT_BILLING_LABEL,Standard-Rechnungsadresse
-ADDRESS_DEFAULT_BILLING_DESC,Als primaere Rechnungsadresse verwenden
+ADDRESS_DEFAULT_BILLING_DESC,Als primäre Rechnungsadresse verwenden
 ADDRESS_SAVE_BUTTON,Adresse speichern
 ADDRESS_UPDATE_BUTTON,Adresse aktualisieren
 ADDRESS_CREATED_SUCCESS,Adresse erfolgreich erstellt
 ADDRESS_UPDATED_SUCCESS,Adresse erfolgreich aktualisiert
 ADDRESS_SAVE_FAILED,Adresse konnte nicht gespeichert werden
 ADDRESS_VALIDATION_ERROR,Validierungsfehler
-ADDRESS_VALIDATION_REQUIRED,Bitte fuellen Sie alle Pflichtfelder aus
+ADDRESS_VALIDATION_REQUIRED,Bitte füllen Sie alle Pflichtfelder aus
 ADDRESS_ERR_FIRST_NAME_REQUIRED,Vorname ist erforderlich
 ADDRESS_ERR_LAST_NAME_REQUIRED,Nachname ist erforderlich
 ADDRESS_ERR_PHONE_REQUIRED,Telefonnummer ist erforderlich
-ADDRESS_ERR_STREET_REQUIRED,Strassenadresse ist erforderlich
+ADDRESS_ERR_STREET_REQUIRED,Straße ist erforderlich
 ADDRESS_ERR_CITY_REQUIRED,Stadt ist erforderlich
 ADDRESS_ERR_POSTCODE_REQUIRED,Postleitzahl ist erforderlich
 ADDRESS_ERR_COUNTRY_REQUIRED,Land ist erforderlich
 NETWORK_ERROR_TITLE,Keine Internetverbindung
-NETWORK_ERROR_MESSAGE,Bitte pruefen Sie Ihre Internetverbindung und versuchen Sie es erneut.
+NETWORK_ERROR_MESSAGE,Bitte überprüfen Sie Ihre Netzwerkverbindung und versuchen Sie es erneut.
 NETWORK_ERROR_RETRY,Erneut versuchen
-SEARCH_VOICE_TITLE,Zuhören…
-SEARCH_VOICE_HINT,Sagen Sie einen Produktnamen, um zu suchen
+SEARCH_VOICE_TITLE,Hören...
+SEARCH_VOICE_HINT,Sagen Sie etwas, um Produkte zu suchen
 PDP_NO_DETAILS,Keine Details verfügbar.
 PROFILE_COMPANY_ACCOUNT,Firmenkonto
 COMPANY_ACCOUNT_TITLE,Firmenkonto
 COMPANY_ACCOUNT_EDIT,Bearbeiten
 COMPANY_ACCOUNT_EDIT_TITLE,Bearbeiten
-COMPANY_ACCOUNT_EDIT_COMING_SOON,Die Bearbeitung des Firmenkontos kommt bald.
+COMPANY_ACCOUNT_EDIT_COMING_SOON,Die Bearbeitung des Firmenkontos ist bald verfügbar.
 COMPANY_ACCOUNT_ERROR_TITLE,Fehler
 COMPANY_ACCOUNT_SIGNIN_AGAIN,Bitte melden Sie sich erneut an.
 COMPANY_ACCOUNT_LOAD_FAILED,Firmenkonto konnte nicht geladen werden.
-COMPANY_ACCOUNT_EMPTY,Keine Firmendetails gefunden.
+COMPANY_ACCOUNT_EMPTY,Keine Firmendaten gefunden.
 COMPANY_ACCOUNT_SECTION_STATUS,Status
 COMPANY_ACCOUNT_STATUS_ACTIVE,Aktiv
 COMPANY_ACCOUNT_STATUS_INACTIVE,Inaktiv
@@ -497,20 +471,52 @@ COMPANY_ACCOUNT_SECTION_LEGAL_ADDRESS,Rechtliche Firmenadresse
 COMPANY_ACCOUNT_PHONE_PREFIX,T
 COMPANY_ACCOUNT_SECTION_CONTACTS,Kontakte
 COMPANY_ACCOUNT_ADMINISTRATOR,Firmenadministrator
-PROFILE_DELETE_ACCOUNT_TITLE,Konto loeschen
-PROFILE_DELETE_ACCOUNT_BUTTON,Konto loeschen
-PROFILE_DELETE_ACCOUNT_CONFIRM,Diese Aktion ist dauerhaft und kann nicht rueckgaengig gemacht werden. Moechten Sie fortfahren?
-PROFILE_DELETE_ACCOUNT_COMING_SOON,Das Loeschen des Kontos ist noch nicht verbunden. Fuegen Sie hier Ihren API-Aufruf ein.
-COMPANY_LEGAL_NAME,Rechtlicher Name des Unternehmens
-VAT_TAX_ID,USt.-ID
+PROFILE_DELETE_ACCOUNT_TITLE,Konto löschen
+PROFILE_DELETE_ACCOUNT_BUTTON,Konto löschen
+PROFILE_DELETE_ACCOUNT_CONFIRM,Diese Aktion ist dauerhaft und kann nicht rückgängig gemacht werden. Möchten Sie fortfahren?
+PROFILE_DELETE_ACCOUNT_COMING_SOON,Das Löschen des Kontos ist noch nicht verbunden. Fügen Sie hier Ihren API-Aufruf hinzu.
+COMPANY_LEGAL_NAME,Rechtlicher Firmenname
+VAT_TAX_ID,USt-/Steuernummer
 RE_SELLER_ID,Wiederverkäufer-ID
+COMMON_ERROR,Fehler
+COMMON_NA,N/V
+USERS_LOAD_FAILED,Benutzer konnten nicht geladen werden.
 
+USERS_INVALID_USER_DATA,Ungültige Benutzerdaten.
+USERS_INVALID_USER_ID,Ungültige Benutzer-ID.
+USERS_STATUS_ENABLED,Benutzer erfolgreich aktiviert
+USERS_STATUS_DISABLED,Benutzer erfolgreich deaktiviert
+USERS_STATUS_UPDATE_FAILED,Status konnte nicht aktualisiert werden.
+USERS_ROLE_FALLBACK,Rolle
+USERS_STATUS_ACTIVE,Aktiv
+USERS_STATUS_INACTIVE,Inaktiv
+USERS_STATUS_LABEL,Status
+USERS_SCREEN_TITLE,Firmenbenutzer
+USERS_EMPTY_TITLE,Keine Benutzer gefunden
+USERS_EMPTY_SUBTITLE,Tippen Sie auf „Neuer Benutzer“, um Ihren ersten Firmenbenutzer zu erstellen.
+USERS_PHONE,Telefonnummer
+USERS_PHONE_PLACEHOLDER,Telefonnummer
+USERS_ROLES_EMPTY,Keine Rollen für dieses Unternehmen gefunden.
+USERS_SUCCESS_TITLE,Erfolg
+USERS_UPDATED_SUCCESS,Benutzer erfolgreich aktualisiert.
+USERS_CREATED_SUCCESS,Benutzer erfolgreich erstellt.
+USERS_SAVE_FAILED,Benutzer konnte nicht gespeichert werden.
 
-
-
-
-
-
-
-
-
+USERS_NEW_USER,Neuer Benutzer
+USERS_MODAL_EDIT_TITLE,Benutzer bearbeiten
+USERS_MODAL_NEW_TITLE,Neuer Benutzer
+USERS_FIRST_NAME,Vorname
+USERS_FIRST_NAME_PLACEHOLDER,Vorname
+USERS_LAST_NAME,Nachname
+USERS_LAST_NAME_PLACEHOLDER,Nachname
+USERS_EMAIL,E-Mail
+USERS_EMAIL_PLACEHOLDER,name@firma.com
+USERS_ROLE,Benutzerrolle
+USERS_ROLE_PURCHASE_MANAGER,Einkaufsleiter
+USERS_ROLE_DEFAULT_USER,Standardbenutzer
+USERS_ROLE_ID,Rollen-ID
+USERS_ROLE_ID_PLACEHOLDER,Rollen-ID
+USERS_ACTIVE_STATUS,Aktiver Status
+USERS_CANCEL,Abbrechen
+USERS_SAVE,Speichern
+USERS_CREATE,Erstellen
