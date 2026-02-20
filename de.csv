@@ -497,6 +497,13 @@ COMPANY_ACCOUNT_SECTION_LEGAL_ADDRESS,Rechtliche Firmenadresse
 COMPANY_ACCOUNT_PHONE_PREFIX,T
 COMPANY_ACCOUNT_SECTION_CONTACTS,Kontakte
 COMPANY_ACCOUNT_ADMINISTRATOR,Firmenadministrator
+PROFILE_DELETE_ACCOUNT_TITLE,Konto loeschen
+PROFILE_DELETE_ACCOUNT_BUTTON,Konto loeschen
+PROFILE_DELETE_ACCOUNT_CONFIRM,Diese Aktion ist dauerhaft und kann nicht rueckgaengig gemacht werden. Moechten Sie fortfahren?
+PROFILE_DELETE_ACCOUNT_COMING_SOON,Das Loeschen des Kontos ist noch nicht verbunden. Fuegen Sie hier Ihren API-Aufruf ein.
+COMPANY_LEGAL_NAME,Rechtlicher Name des Unternehmens
+VAT_TAX_ID,USt.-ID
+RE_SELLER_ID,Wiederverkäufer-ID
 
 
 

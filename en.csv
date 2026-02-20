@@ -551,6 +551,14 @@ COMPANY_ACCOUNT_SECTION_LEGAL_ADDRESS,Company Legal Address
 COMPANY_ACCOUNT_PHONE_PREFIX,T
 COMPANY_ACCOUNT_SECTION_CONTACTS,Contacts
 COMPANY_ACCOUNT_ADMINISTRATOR,Company Administrator
+PROFILE_DELETE_ACCOUNT_TITLE,Delete Account
+PROFILE_DELETE_ACCOUNT_BUTTON,Delete Account
+PROFILE_DELETE_ACCOUNT_CONFIRM,This action is permanent and cannot be undone. Do you want to continue?
+PROFILE_DELETE_ACCOUNT_COMING_SOON,Delete account is not connected yet. Add your API call here.
+COMPANY_LEGAL_NAME,Company Legal Name
+VAT_TAX_ID,VAT/TAX ID
+RE_SELLER_ID,Re-seller ID
+
 
 
 
