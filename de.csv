@@ -251,7 +251,7 @@ CHECKOUT_TOTAL,Gesamtbetrag
 CHECKOUT_ACCEPT_TERMS,Ich akzeptiere die Allgemeinen Geschäftsbedingungen
 CHECKOUT_ADD_NOTE,Notiz hinzufügen
 CHECKOUT_TERMS_CONDITIONS,Allgemeine Geschäftsbedingungen
-CHECKOUT_PAYPAL_CHECKOUT,PayPal Checkout
+CHECKOUT_PAYPAL_CHECKOUT,PayPal-Bezahlung
 CHECKOUT_ORDER_PLACED_SUCCESS,Bestellung erfolgreich aufgegeben!
 CHECKOUT_PAYMENT_CANCELLED_TITLE,Zahlung abgebrochen
 CHECKOUT_PAYPAL_CANCELLED,PayPal-Zahlung wurde abgebrochen.
@@ -521,3 +521,4 @@ USERS_CANCEL,Abbrechen
 USERS_SAVE,Speichern
 USERS_CREATE,Erstellen
 USER_V1,Benutzer
+SEARCH_LOADING_RESULTS,Produkte werden gesucht…
